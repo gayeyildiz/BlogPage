@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/egzersiz1.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:#f7c212">Günlük Hayatta Uygulayabileceğiniz Üç Nefes Egzersizi</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Nefes alıp vermek insanın doğduğu andan ölümüne dek aktif olarak her an devam ettirdiği tek eylem diyebiliriz. Nefes almak bazen hareket etmemize, bazen stresi yönetmemize, bazen de zorlu zamanlarda sakinleşmemize yardım eder. Günlük hayatta bize her an yardıma hazır olan bu eylemi yıllar geçtikçe farkındalık düzeyinde gerçekleştirememeye başlarız. Aldığımız nefesi, verdiğimiz nefesi, nefesimizi tuttuğumuz anları, nefesini hızını, vücudumuzda yarattığı etkiyi fark etmeyiz. Bebekliğimizde sağlıklı şekilde aldığımız nefesin ritmi ve şekli değişir. Oysa nefes, birlikte doğduğumuz ve her zaman yanımızda olan doğal bir kaynaktır. Bu kaynağı kullanarak bedenimizin ve hayatımızın kalitesini arttırabiliriz. Gelin, günlük hayatta uygulayabileceğiniz üç nefes egzersizini birlikte deneyimleyim sevgili okurlarımız.</p>
+                        <p>Nefes egzersizleri genellikle kaygı, endişe, korku gibi duygular hissettiğimizde ya da panik atak gibi durumlar yaşadığımızda uygulanması gereken teknikler gibi görülür. Aslına bakarsanız bu teknikleri uygulamak için zorlayıcı durumları beklememek ve nefes egzersizlerini günlük rutinimize entegre etmek çok daha faydalı olacaktır. Rutininize aldığınız egzersizin etkileri zorlayıcı anlarınızda da yardımınıza koşacak ve bu durumları önlemek için de önemli bir kaynak olacaktır. Derin nefesler almak, nefesin farkına varmak ve onu izlemek beyine direkt olarak rahatlamaya ve sakinleşmeye yönelik mesajlar ileten eylemlerdir. Doğru adımlarla nefes alıp vermek, vücutta sağlanan dengeyi ve sağlıklı bir zihni de beraberinde getirecektir.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/egzersiz2.jpg" alt="..." /></a>
+
+                        <p>Temel nefes egzersizlerinden üçünü birlikte deneyimlemeden önce nefes egzersizlerinin her ortamda ve her uzunlukta yapılabileceğini sizlere söylemek istiyorum. Tek yapmanız gereken kendinizi rahat hissedebileceğiniz bir yerde, bir koltuğun, yatağın ya da minderin üstü olabilir, oturur pozisyonda durmanız olacak. Omurganızın dik ve boynunuzun uzun olması uygulamayı kolaylaştıracaktır. Uygulamalarda gözlerinizi kapatıp iç alanınıza odaklanabilir ya da gözleri bir noktada sabit tutabilirsiniz. Egzersizler boyunca nefesin özgür olması önemli. Bu egzersizleri rutininize günde bir ya da iki kez olacak şekilde dahil edebilirsiniz. Başlangıçta egzersizler 1-2 dakika sürebilir, sonrasında süreyi 5-10 dakika şeklinde arttırabilirsiniz. Hadi, ilk tekniğimizle başlayalım.</p>
+                        
+                        <h2 class="section-heading">Kare Nefes</h2>
+                        <p>Öncelikle burnunuzdan derin bir nefes alın ve nefesinizi ağzınızdan tamamen boşaltın. Bunu aynı şekilde üç kere tekrar edin. Bundan sonraki nefeslerde ağzınızı kapatın nefes alış-verişine burnunuzdan devam edin. 4 sayıda nefesi alın. 4 sayıda nefesinizi içinizde tutun. 4 sayıda nefesi verin. 4 sayıda nefesi tutun. Bunu 4-4-4-4 döngüsünü takip edecek şekilde kendinize belirlediğiniz süre boyunca tekrarlayın. 4 sayıda nefesinizi tutmak sizin için zor oluyorsa başlangıçta bu sayıyı 2 ya da 3 olarak deneyebilirsiniz. Çok rahat hissediyorsanız 5 ya da 6 saniyeyi de deneyebilirsiniz. Kare nefes tekniğini uygulamak nefes kapasitesini arttırır ve zihinsel odaklanmaya yardımcı olur. Stresli anlarda rahatlamaya ve gelecekte karşılaşacağınız stresörlere karşı tepkilerinizi değiştirmeye destek olur.</p>
+                        
+                        <h2 class="section-heading">4/8 Nefes Uygulaması</h2>
+                        <p>Bu nefes tekniği aldığımız nefesin iki katı sayıda nefes vermek üzerine düzenlenmiş bir tekniktir. Sayılar kişiden kişiye ya da dönemsel olarak değişebilir. Değişmemesi gereken şey aralarındaki oranın iki olmasıdır. 4/8, 5/10, 6/12 gibi. Yine burnunuzdan derin bir nefes alın ve ağzınızdan verin. Bunu üç kez tekrarlayın. Ardından ağzınız kapalı şekilde burnunuzdan nefes alıp vermeye başlayın. 4 sayıda nefes alın. 8 sayıda nefes verin. Kendinize belirlediğiniz süre boyunca bunu tekrarlayın. Bu nefes tekniği parasempatetik sinir sistemini aktive eder. Nefes kapasitenizi ve hücresel oksijenlenmeyi arttırır. Sindirimi kolaylaştırır. Aynı zamanda bu teknik meditasyona giriş için de uygulanabilir.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/egzersiz.jpg" alt="..." /></a>
+
+                        <h2 class="section-heading">Dönüşümlü Burun Nefesi</h2>
+                        <p>Sanskritçe isme Nadi Shodhana olan bu nefes, Kanal Temizleme Nefesi olarak da bilinir. Bu nefes boyunca sırasıyla sağ ve sol burun deliklerinizi kapatmanız gerekecek. Bir elinizin baş parmağını ve yüzük parmağını bu uygulama için kullanabilirsiniz. Bu esnada işaret ve orta parmağınızı destek amaçlı alnınıza koyabilirsiniz. Öncelikle burnunuzdan derin bir nefes alın ve nefesinizi ağzınızdan tamamen boşaltın. Bunu aynı şekilde üç kere tekrar edin. Bundan sonraki nefeslerde ağzınızı kapatın nefes alış-verişine burnunuzdan devam edin. Sağ burun deliğinizi baş parmağınızla kapatın, sol burun deliğinizden 4 sayıda nefes verin. Yine sol burun deliğinizden dört sayıda nefes alın. Serçe parmağınızla sol burun deliğinizi kapatın, sağdan 4 sayıda nefes verin. Yine sağdan 4 sayıda nefes alın. Bu şekilde verdiğiniz taraftan nefes alarak kendinize belirlediğiniz süre boyunca uygulamaya devam edin. Dönüşümlü burun nefesi beynin sağ ve sol lobları arasında dengeyi sağlar, dikkati arttırır. Miskinlik ve dalgınlığı en aza indirir.</p>
+                        
+                        
+                        <p>Şimdi nasıl hissediyorsunuz? Tüm bu egzersizler size iyi geldi mi? Nefesin bilincinde olmanın ve farkındalıkla yapılan nefes egzersizlerinin faydaları birçok araştırma tarafından kanıtlanmıştır. Siz de kısa süreler halinde de olsa rutininize bu egzersizleri ekleyerek yaşam kalitenizi arttırabilirsiniz. Nefes içimizde sonsuz bir kaynak sevgili okurlarımız, onu fark etmeyi unutmayın!</p>
+                        
+
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

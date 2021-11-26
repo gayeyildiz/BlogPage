@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/mp.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(116, 186, 233)">COP27’den Haber Var: Yeni Rota Mısır, Umut Vadeder mi?</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+
+                        <p>Biliyorsunuz bir süre önce 26. BM İklim Değişikliği Konferansı COP26 düzenlenmiş, gün gün yaşananları yine BOBOScope GlobalNews sayfalarında sizlerle paylaşmıştım. İklim kriziyle ilgili gerçekleştirilen kritik zirvede son dakika yaşananlar zirvenin bir “hayal kırıklığı” olarak nitelendirilmesine yol açtı. Zirve Başkanının “Çok üzgünüz” şeklinde yaptığı açıklama iklim kriziyle mücadelede bir umutsuzluk yakarışı olarak yorumlansa da zirvelerin hala planlanıyor olması umudun kesilmediğinin de en büyük göstergesi. Henüz sona eren COP26’nın etkileri geçmeden COP27 rotası açıklandı. Yeni adres Mısır!</p>
+                        <p>İskoçya'nın Glasgow kenti dünyanın dört bir yanından ülke temsilcilerini ve çevre aktivistlerini bir araya getiren global bir zirveye ev sahipliği yapmıştı on gün boyunca. Glasgow’da gerçekleştirilen 26. BM İklim Değişikliği Konferansı'nda (COP26) ülkeler, içinde bulunduğumuz iklim kriziyle mücadelede yol haritası olacak iklim değişikliğine karşı önlemleri içeren anlaşmayı imzalamıştı. Fakat bir son dakika değişikliği tüm umutları aniden sarstı ve zirvenin bir “hayal kırıklığı” olarak değerlendirilmesine yol açtı. Peki neydi o değişiklik?</p>
+                        
+                        <h2 class="section-heading">Hindistan bizi üzdü!</h2>
+                        <p>Glasgow’da ülkelerin vardığı anlaşma ilk sinyalleriyle umut vadediyor gibi görünüyordu. Öyle ki bu anlaşmada, kömürün aşamalı olarak azaltılmasını taahhüt edildi. 2030 yılına kadar emisyon azaltma planları mutlaka düzenli şekilde gözden geçirilecek ve gelişmekte olan ülkelere mevcuttan çok daha fazla finansal destek verilecekti. Aslında bu kararlar oldukça iyi bir adımdı ve Glasgow İklim Anlaşması, kömür kullanımını azaltmayı hedefleyen tarihteki ilk anlaşma olarak kayıtlara geçecekti. Fakat bir soru oldu. Hindistan ani bir kararla taahhüt değişikliğine gitti. Anlaşmanın önceki taslak metinlerinde kömürün "aşamalı olarak sonlandırılması" taahhüdü yer alıyordu fakat son dakika Hindistan bu taahhüde itirazda bulundu ve bir ifade değişikliği istedi. İşte burada COP26 için hayal kırıklığı yorumları gelmeye başladı.</p>
+                       
+                        <a href="#!"><img class="img-fluid" src="assets/mp2.jpg" alt="..." /></a>
+                        
+                        <h2 class="section-heading">Aşamalı olarak azaltmak…</h2>
+                        <p>Hindistan İklim Bakanı Bhupender Yadav ani bir çıkışla tam olarak şöyle dedi: "Kalkınma ve yoksullukla uğraşan gelişmekte olan ülkelerden, kömür ve fosil yakıt sübvansiyonlarını aşamalı olarak sonlandırma vaatleri vermesi nasıl beklenebilir?" Maalesef Bakanın bu çıkışının ardından aşamalı olarak sonlandırmak ifadesi aşamalı olarak azaltmak şeklinde revize edilmek durumunda kaldı.</p>
+                        
+                        <h2 class="section-heading">“Çok üzgünüm”</h2>
+                        <p>Zirve başkanı Alok Sharma umut veren bu ilerlemenin ani gelişen bir kararla hayal kırıklığı yaratması "çok üzgün" olduğunu ifade etti. Ancak Başkan, anlaşmanın bir bütün olduğunu ve önemli kararlara imza atıldığından bu bütünlüğü korumanın kritik öneme sahip olduğunun altını çizdi. Çünkü bir üzücü değişikliğin diğer başarıları gölgelemesi istenmedi. Öyle ki bu anlaşmayla 1,5 C hedefine ulaşmak için önümüzdeki yıl emisyon azaltma planları için yeniden zirve kapsamında bir araya gelinecek. Diğer bir önemli karar ilk kez uluslararası bir anlaşmada kömür kullanımını sınırlama taahhüdü verilmiş olması. Bir diğeri ve en sancılısı olan gelişmekte olan ülkeler için mali yardımların artacak olması. Çünkü kömürün azaltılması ve sonlandırılmasıyla işsiz kalacak belki binlerce on binlerce insan için istihdam alanı yaratmak elzem bir konu. Bu finansal destek belki de yeni girişimlerin yolunu açmakta yardımcı olacak.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/mp1.jpg" alt="..." /></a>
+
+                        <h2 class="section-heading">Yeni Rota: Mısır!</h2>
+                        <p>Birleşmiş Milletler İklim Değişikliği Konferansı COP27 ‘ye önümüzdeki sene Mısır ev sahipliği yapacak. Zirvenin, Mısır’ın Kızıldeniz tatil beldesi Şarm El-Şeyh’te düzenlenmesi planlanıyor. COP26’nın düzenlendiği Glasgow’da alınan bu karar, yine de kararlara ve ilerlemelere dair umutsuz olunmadığının ve çabaların sonuçsuz kalmayacağına dair inancın da bir göstergesi. Keza Mısır bu konferansı, “tüm taraflarla koordineli olarak, Afrika’nın ve tüm dünyanın yararına uluslararası iklim çabalarında radikal bir dönüm noktası” yapmak için hayata geçireceklerini ifade etti. COP28în kararı da yine akabinde verildi. Birleşik Arap Emirlikleri (BAE), 2023’te COP28 BM İklim Değişikliği Konferansına ev sahipliği yapmak üzere seçilen bir diğer ülke oldu. Ne diyelim, umarız gezegenimizi yine insanlığın soktuğu bu çıkmazdan yine insanlığın çabası kurtarsın, tek dileğimiz bu…</p>
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

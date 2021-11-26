@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/team.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(189, 218, 61)">Co-Working Space: Ortak Çalışma Alanı</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Ortak çalışma alanları (co-working spaces), değişen çalışma biçimlerimize ayak uyduran yeni nesil çalışma mekanlarından. Bu çalışma alanları neredeyse 20 yılı aşkın zamandır dünyada varlığını sürdürüyor. Türkiye’de ise son birkaç senedir oldukça yaygınlaştı. Her ne kadar ortak çalışma alanları henüz herkes için benzer anlamlar ifade etmese de, gelecek yıllarda adını daha da sık duyacağız gibi görünüyor. Ortak çalışma alanları mekan aracılığıyla yenilikçi bir çalışma biçimini de ön plana çıkarıyor. Gelin ortaklaşa çalışmayı mümkün kılan bu alanları tanıyalım.</p>
+                        
+                        <h2 class="section-heading">Nedir?</h2>
+                        <p>Ortak çalışma alanlarını paylaşımlı ofisler olarak tanımlamak mümkün. Alışageldiğimiz ofisler genellikle ya bir apartman dairesinde, ya bir plazanın içinde ya da kendine ait bir binaya sahip oluyor. Ortak çalışma alanları ise bir nevi bu farklı ofisler arasındaki duvarları kırıyor. Bu alanların içerisinde farklı şirketler, girişimler, ekipler veya bağımsız çalışanlar yer alabiliyor. Adından da anlaşılacağı üzere genellikle çalışma alanları ortaklaşa kullanılıyor ve mekan tasarımı da bu doğrultuda yapılıyor. Burada herkesin yan yana çalışabileceği uzun masalar, bireysel çalışmak için ayrı bölümler, ekiplerin kullanabileceği kapalı odalar, toplantı salonları, etkinlik alanları, telefon veya görüntülü görüşme yapmak için sessiz odalar, yemek ve dinlenme alanları bulunuyor.</p>
+                        <p>Herhangi bir ofiste bulabileceğiniz özellikleri ve çoğu zaman daha da fazlasını burada bulabiliyorsunuz. Fotokopi makineleri, kahve alanları, WiFi, projeksiyon makineleri, zaman zaman bilgisayar gibi çeşitli imkanlar buralarda da mevcut. Fakat klasik bir ofise kıyasla daha esnek çalışma alanı ve saatlerine sahip olmasıyla ön plana çıkıyor. Ortak çalışma alanlarının belirli bölümlerini kendiniz veya ekibiniz için günlük, aylık veya yıllık olarak kiralayabiliyorsunuz. Çoğunlukla bu alanlar alıcılarına belirli paketler sunuyor. Kiminde yalnızca bir masa kiralayabilir kiminde ise masa, etkinlik alanı, kapalı ofis gibi çoklu imkanlardan faydalanabilirsiniz. Sunulan hizmet, alıcısına göre de çeşitlilik gösterdiği için bağımsız çalışan biriyle bir şirket aynı çatı altında kolaylıkla çalışabiliyor.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/calisma.jpg" alt="..." /></a>
+                        
+                        <h2 class="section-heading">Çeşitleri</h2>
+                        <p>Her ortak çalışma alanı benzer özelliklere sahip olmakla birlikte çeşitlilik de gösterebiliyor. Kimileri yalnızca belli alanlardaki profesyonellere kapılarını açıyor. Örneğin, yalnızca sanatçıların çalıştığı veya yalnızca yaratıcı girişimlerin yer aldığı ortak çalışma alanlarına erişmek mümkün. Ayrıca bazıları sadece çalışma alanı sağlarken bazıları bununla birlikte farklı hizmetler de sunabiliyor. Örneğin, burada çalışan girişimlerin kapasitesini geliştirmek üzere bünyesinde; mentorlar, stratejistler, topluluk yöneticileri gibi farklı uzman ve destek ekiplerine yer verebiliyor. Diğer bir yandan, ortak çalışma alanları genellikle (kendi kriterleri doğrultusunda) farklı çalışan ve ekiplere açık olsa da bazı ekipler de kendi ofislerini tıpkı bir ortak çalışma alanı gibi tasarlayabilir. Dolayısıyla kendi ihtiyacınıza göre bir ortak çalışma alanı bulmak da yaratmak da mümkün.</p>
+                       
+                        <h2 class="section-heading">Önemi</h2>
+                        <p>Ortak çalışma alanlarını en yaygın kullanan kişiler özellikle girişimler, kar amacı gütmeyen topluluklar ve bağımsız çalışan genç profesyoneller. Bu mekanlar, işini büyütmeyi amaçlayan ve türlü desteklere ihtiyaç duyan bu ekip veya kişiler için bağlantı kurma olasılıkları sunuyor. Olağan koşullarda ayrı bir ofiste veya evde çalışarak alanlarından uzak kalmak yerine co-working spacelerde farklı kişilerle tanışabiliyor, farklı işbirlikleri yaratabiliyor, farklı etkinlikleri ya da gelişmeleri takip edebiliyorlar. Dolayısıyla özellikle benzer alanlarda çalışan kişiler için işlerini geliştirme ve kendilerini güncel tutma imkanı sağlıyor.</p>
+                        
+                        <p>Öte yandan böyle bir yerde çalışma alanı kiralamak sil baştan bir ofis kurmaya kıyasla daha ucuz. Aynı zamanda ödenilen kiraya elektrik, su, internet gibi türlü masraflar da dahil olduğu için böylesi işlere de vakit ayırmanıza gerek kalmıyor. Özellikle sürekli evde veya farklı farklı kafelerde çalışan bir freelance iseniz, size ait olabileceğiniz bir yer sağladığı gibi sosyalleşme imkanı da sağlıyor. </p>
+                        <p>Ortak çalışma alanları sayesinde eğer yalnız çalışıyorsanız bir topluluğun; eğer ekibinizle birlikte iseniz de kendinizden daha büyük bir topluluğun parçası oluyorsunuz. Böylelikle sadece bir topluluğun sağlayabileceği aidiyet, yaratıcılık ve olasılıksız imkana erişebiliyorsunuz. Özetle ortaklaşa çalışma; çalışmayı da yaşamı da kolaylaştırıyor. </p>
+
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

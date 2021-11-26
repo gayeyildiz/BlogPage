@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/taktik.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(255, 238, 0)">Hayat Kalitenizi Yükseltecek Psikolojik Taktikler</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Hayatta bazı şeyleri çözümlemesi için yalnızca şans faktöründen medet umamayız. Bazen diğerlerinden bir adım önde olmak için kendi bilgeliğimizi de kullanmamız gerekir. Doğru bir strateji bize dünyayı kurtarma fırsatı yaratmaz belki, ama en azından o an için karşımızdakine üstünlük kurma fırsatını verir. Elbette doğru taktiği uygulamak için karşımızdaki insanı da doğru okumamız gerekiyor. Onun hâl ve tavırlarına bakarak, istediğimiz cevabı almamız mümkün. Gelin, zor anlarda yardımına başvurabileceğiniz birkaç basit taktiği yakından inceleyelim.</p>
+                        <p>Karşınızdaki kişiyle konuşmanız devam ederken, ondan ‘evet’ cevabını almanız gereken bir durumla karşı karşıyasınız diyelim. Eğer bu onayı duymak istiyorsanız, onu alt metinde vereceğiniz basit mesajlarla ‘evet’ demesi gerektiğine ikna etmeniz gerekir. Yapmanız gereken şey basit; soruyu sorduğunuz sırada, onay veriyormuş gibi kafanızı hafifçe aşağı yukarı sallayın. Bu basit hareketle karşınızdaki kişiyi desteklediğinizi ve doğru cevabın olumlu yönde olması gerektiğini, beden diliniz vasıtasıyla söylediniz. Böylelikle sizden aldığı güçle, farkında olmadan cevabı da olumlu yöne kayacaktır.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/m2.jpg" alt="..." /></a>
+
+                        <p>Yine onay cümlesi duymanız gereken bir duruma düştünüz… İstediğiniz şeyi yaptırmak için ne yol izlemeniz gerektiğini kara kara düşünüyorsunuz. İşte o anda bu söylediğimizi hatırlayın! Birinin sağ kulağına doğru konuşursanız, o kişiye istediğiniz şeyi yaptırma ihtimaliniz artar. Diyelim ki uzun zamandır satın almak istediğiniz bir çanta vardı ama fiyatı yüzünden bir türlü ailenizi o çantayı almak için ikna edemediniz. Yüzünüze yerleştirdiğiniz tatlı bir gülümseme eşliğinde hafifçe eşinize ya da aile üyelerinize doğru eğilin ve sağ kulağına doğru “O çok beğendiğim kırmızı renkli çantayı satın alabilir miyim? Lütfen…” diyerek boynunuzu hafifçe yana bükün. Emin olun, o çantayı alma ihtimaliniz, eskisine göre çok daha yüksek artık!</p>
+                        <p>İtiraf saati geldi! Birilerinden gerçekleri duymak için yanıp tutuşuyorsunuz. Ama bir türlü o gerçeği duymayı beceremediniz çünkü hep bir şekilde konuyu geçiştirdi. O yüzden bu sefer başka bir taktik deneyeceksiniz. İnsanlar, genellikle yoğun stres altındayken ya da fiziksel olarak büyük efor sarf edip yorgun düştükleri günlerde, doğruyu söylemeye daha yatkındırlar. Yani farkında olmadan öğrenmek istediğiniz şeyi böyle anlarda ağızlarından kaçırabilirler. O yüzden bu anları kovalayıp, öğrenmek istediğiniz ne varsa öğrenin. Ancak aynısı sizin için de geçerli. Eğer saklamak istediğiniz bir sır varsa, aynı duruma düştüğünüz vakitlerde mutlaka o kişiyle bulunduğunuz ortamdan kaçın. Yoksa “İki kişinin bildiği, sır değildir” cümlesi, artık sizin için de geçerli olur.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/m3.jpg" alt="..." /></a>
+
+                        <p>Bu arada… Birinin yalan söyleyip söylemediğini anlamanın basit birkaç yolu da var. Bunlardan bir tanesi, karşılıklı oturduğunuz sırada, karşınızdaki kişinin yalan söylediği zaman sizinle arasına bardak, fincan, çatal veya kaşık, kitap veya defter gibi yakınındaki herhangi bir nesneyi koyması mümkün. Bunun nedeni de yalan söylerken size karşı kendini koruma altına alma içgüdüsüdür. Fark edilmek istemeyen kişi, istemsizce kendini yakınındaki nesnelerin arkasına saklamaya çalışır ve bunu, bilinçsizce yapar. Sizin tarafınızdan fark edilmek istemez ve nesneleri kendine siper eder. Eğer kritik bir anda, karşınızdaki kişiden böyle bir tavır görüyorsanız, mesela bir anda masanın köşesinde duran kitabı kendi önüne çekip sayfalarını karıştırıyormuş gibi yapıyorsa, bilin ki o an size yalan söyleniyor. Aman dikkatli olun!</p>
+                        <p>Biriyle sohbet ederken o kişinin güvenini kazanmak istiyorsanız, yapmanız gereken şey tıpkı bir ayna gibi onun jest ve mimiklerini taklit etmek. Benzer anlarda benzer hareketleri uygularsanız, size güven duyması için gereken zamanı büyük ölçüde kısaltırsınız. Özellikle iş görüşmelerinde veya diğer başka mülakatlarda bu yöntem epey işinize yarayacaktır, bu bilgi aklınızın bir köşesinde bulunsun.</p>
+                        
+                        
+                        
+
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

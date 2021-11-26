@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/ayri.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgba(255, 255, 255, 0.993)">Kadınlar Toplumdan Ayrıştırılırsa Ne Olur?</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Toplumun bir türlü hiçbir yere konumlandıramadığı kadınlar için dünya çapındaki çoğu iktidarın ayrıştırıcı politikalar izlediği aşikar. Sosyal hayatın hemen hemen her alanında -ki buna aile içi de dahil- kadınların sindirildiğine ve baskılandığına bizzat şahit oluyor hatta bizzat deneyimliyoruz. Hal böyle olunca, bizlere de malum sorunlarla muhatap olmak düşüyor ve karşınıza yepyeni bir tartışma konusu seriyoruz. “Kadınlar toplumdan ayrıştırılırsa ne olur?” Hadi gelin, biraz bu soru ve akabinde oluşan sorunlar üzerine iki çift laf edelim, ne dersiniz?</p>
+                        <p>Eğer sorunumuz kadın ve kadın olmaya yönelik bir şey ise bu sorgulamayı “neden” sorusu ile başlatmak en doğru yaklaşım olacaktır. Çünkü, sizler de hak verirsiniz ki artık bu “problem” in geçmişine bakmaya yeltendiğimiz zaman, başlangıcını görmekte zorluk çekiyoruz. Mazisi son derece kabarık olan “kadın olmaya dair” sorunlar; baştan aşağı bir değişim geçirmesi gerekirken, geçmişten günümüze türlü türlü evrimlere uğramış, fakat asla tam anlamıyla yok olmamıştır. Peki, neden yüzyıllardır toplum, kadınları bastırıp toplumdan ayrıştırmaya çalışmış olmalı?</p>
+                        <a href="#!"><img class="img-fluid" src="assets/ayri1.jpg" alt="..." /></a>
+                        <p>Bunun, temel olarak mevcut inanç sistemlerine dayandığına inanan bendeniz, dünyaya hükmeden dinlerin, kadını nasıl bir pozisyonda konumlandırdığı ile de son derece alakalı olduğunu düşünüyorum. Hal böyle olunca kutsal kitaplarda yer alan “kadına yönelik” satırların, toplumsal tutumu şekillendirdiğini söylemek oldukça mümkün açıkçası. Bundan yola çıkarak kadınların tüm toplumlarda “ikinci planda bulunan güçsüz insan sınıfı” olarak nitelendirilmesinin, son derece köklü bir kültürlenme olduğu kanaatindeyim. Belki bilinçli belki bilinçsiz bir şekilde gelişip evrimleşen bu kültürlenme, 21. yüzyıla kadar kadını daha da baskılamış ve günümüzdeki “korunmaya muhtaç” imajı yaratılmıştır. Toplumun en temel parçalarından bir olan kadın, günümüzde de tıpkı geçmişte olduğu gibi sindirilmeye ve baskılanmaya devam etmekte. Tüm bu söylediklerimizi kapsayan ayrıştırmaya da hepimizin duymaktan sıkıldığı bir kılıf uydurulmakta. Korumak… </p>
+                        <p>Bu ayrıştırmayı meşru kılmak adına kadını toplumdan ve kadın olmayandan koruduğunu iddia eden iktidarlar, yalnızca kadın olanlara yönelik, “güya ayrıcalıklı” toplumsal girişimlerde bulunmakta. Bunlara örnek vermek gerekirse; kadınlara özel toplu taşıma araçları ya da kadın üniversitesi girişimlerinin gayet isabetli örnekler olacağını söylemek mümkün. Cinsiyetler arasında var olan bir ayağı kırık köprünün tam anlamıyla yıkılması için son derece akıllıca bir girişim diyebileceğimiz bu ayrıştırma, tabii ki de beklenen ilgiyi görmüyor ve aksine oldukça haklı tartışmalara mahal veriyor. Peki, bu girişim amacına ulaşsa ve eğitim, iş, sosyal, aile gibi toplumsal alanlarda kadınlar meşru olarak ayrıştırılsa ne olur?</p>
+                        <a href="#!"><img class="img-fluid" src="assets/ayri2.jpg" alt="..." /></a>
+                        <p>Bugün şeriatla yönetilen ülkelere baktığımız zaman az önce muhatabı olduğumuz sorunun cevabını gayet güzel alabiliyoruz aslında. Fakat bu mevzuyu biraz daha irdelemek gerekirse; toplumun en temel parçalarından biri olan kadının, yine toplum eliyle doğal yaşam alanından uzaklaştırılması ve arka plana atılması, kadın üzerine inşa edilmek istenen objeleştirici ve cinsiyetçi algının nihai hedefine ulaşması anlamına gelecektir. Kadın zihni, bedeni ve cinselliği gizlenip, kapalı kapılar ardına saklandıkça toplum ve özellikle erkekler tarafından daha da merak edilecek, gün geçtikçe toplumsal bir tabu hali alacaktır. Muhafazakarlık adı altında tasvir edilecek olan bu girişim; kadını, erkeği, çocuğu ve dolayısıyla koskoca bir toplumu etkileyecek, elde yalnızca eril kılıçların konuştuğu bir insan bütünü kalacaktır. Kadını korumayı kendine görev edinip ona en büyük zararı yine kendisi verecek olan ülke iktidarları, “Kadın kutsaldır, bizler kadını kendimizden sakındık” kisvesi altında muhtemel aklanmalarını gerçekleştirecek ve tarihin en başında olduğu gibi zihniyetten başka suçlu kadından başka mağdur olmayacaktır.</p>
+                        <p>Eğer bu ve benzeri olaylara şahit olmak istemiyorsak hem kız hem de oğlan çocuklarımızı kapının ardındaki gerçek hayata hazırlamak adına son derece gerçekçi bir bilinçlendirme sürecini takip etmekte fayda var. Korunmaya muhtaç kız çocukları ve korumaya hazır oğlan çocukları yerine, kendini her anlamda koruyabilecek bir nesil yetiştirmek, yepyeni bir dünya inşa etmekle aynı anlama gelmekte. Herkesin aynı toplumda yaşayabildiği ve artık çağ dışı olduğuna gönülden inandığımız bu konuları tartışmanın en kısa zamanda son bulacağı günlere!</p>
+                        
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

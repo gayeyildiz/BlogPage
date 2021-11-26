@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/ikea.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(219, 111, 10);">IKEA mühendisleri Mars simülasyonunda yaşıyor</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">Popular Science</a>
+                                on Juny 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>İlk bakışta fikir kulağa, oldukça saçma ve işe yaramaz gibi geliyor. İsveç’li mobilya şirketi IKEA, inanılmaz ucuz (ve çoğunlukla şaşırtıcı derecede şık) de-monte mobilyalar üretmesiyle biliniyor. Geçtiğimiz günlerde çok sayıda mühendisini bir Mars simülasyonunda yaşamaya gönderdi. Evet, EKTORP kanepe ve GJÖRA yatak çerçevesini tasarlayan cesur erkek ve kadınlar, Utah’daki Mars Çöl Araştırma İstasyonu’nda uzay sömürgeciliği oynamaya devam ediyorlar.</p>
+                        <p>‘Çılgın, eğlenceli bir deneyim.’ IKEA’nın yaratıcı lideri Michael Nikolic, yaptığı açıklamada, ‘astronotların üç yıl boyunca yaşadıkları şeyleri anlayabilmeleri için kendilerinin üç gün boyunca tamamen izole edildiklerini söyledi.’</p>
+                        <p>‘Kompakt yaşamda konfor ne demektir? Ufak yerlerde nasıl hissederiz? Bu yıl IKEA bunları biraz daha derinlemesine inceliyor,’ diyor basın açıklamasında Nikolic, ‘İskandinav apartmanı yaptıktan sonraki en mantıklı adım belki de ıssız yabancı bir dünyaya minik kulübeler yapmaktır.’</p>
+                        <p>Älmhult’da yılda bir düzenlenen Demokratik Dizayn Günü etkinliğinde IKEA’nın yaptığı açıklamaya göre, konu sadece rahat uzay yerleşkeleri tasarlamaları için NASA’ya yardım etmek değil- gerçi yollanan raporlar zaten NASA ile çalışmakta olan Lund Üniversitesi ile de işbirliği yapılarak takımın bazı ilginç fikirler ortaya çıkarabileceği doğrultusunda ama.</p>
+                        <p>Öncelikli amaç Mars simülasyonundaki aşırı koşulların kullanılması ile-bireysel olmayan dizaynlar, sıkışık köşeler, uzay tuvaletleri- Dünya’da daha da iyi çalışacak olan bazı tasarımsal çözümlerin ortaya çıkartılmasıdır.</p>
+                        <p>Böyle düşünenler sadece IKEA mühendisleri değil. Bazı çiftçiler de, uzay gemisinde ve yabancı gezegenlerde yiyecek yetiştirmenin öğrenilmesiyle, bilim insanlarının, işleri şu an için daha kullanışlı hale getirmelerini umut ediyorlar- kuraklığın vurduğu alanlarda daha etkin çiftçilik yapılması ya da enerji masraflarına besin patlaması desteği sağlamak gibi. Uzayı göz önünde bulundurarak bir şeyler tasarlamak, mühendislerin ve bilim insanlarının olaylara dışarıdan birinin gözüyle bakmalarını sağlıyor. Zaten, şimdilik önümüzde bir Mars görevi olmadığını göz önüne alırsak- bırakın gezegeni yaşanabilir şekilde kolonileştirme planlarını- Dünya’da çalışmalarımızın meyvelerini toplama fikri kulağa çok hoş geliyor (bu meyveler pekala süper-etkin tarım alanları ya da çok hoş modüler de-monte mobilya parçaları olabilir).</p>
+                        <p>Eğer IKEA, Mars üzerindeki yaşam alanlarında işe yarayacak, bir giysi depolama sistemi tasarlayacak olursa, kesinlikle Dünya üzerindeki, sizin eviniz için de işe yarayacak bir giysi depolama sistemi tasarlayabilir. IKEA’nın da yapmayı planladığı şey bu, 2019 yılında ilham kaynağı uzay olan 30 kadar parçadan oluşacak bir kolleksiyon çıkartmayı planlıyorlar.</p>
+                        <p>”Kolleksiyonun ana fikri Dünya üzerinde sahip olduklarımızın kıymetini anlamak: insanlar, bitkiler, temiz su ve hava,” diyor Nikolic. ”Aynı zamanda çeşitlilik ve hafife aldığımız günlük şeylere sahip olma hissi. Bu seyahatten sonra, ben şayet evime ve kendi yatağıma döndüğümde kendimi harika hissettim.”</p>
+                        <p>Şimdiye kadar görüldüğü kadarıyla, Mars’a de-monte görevi fikri kötü bir fikir değil. Deneyim aynı zamanda, önümüzdeki yüzyılda muhtemelen karşımıza çıkacak tasarlama rekabeti fikri ile de yüzleşmemizi sağlıyor: Dünya daha kalabalık hale geldikçe- ve daha rahatsız- anlaşılan o ki, eşyalarımızı toplamak ve taşınmak fikri ile git gide daha sık yüz yüze geleceğiz. Aynen, IKEA’nın cesur mühendisler takımı gibi, bizler de, Dünya’dan ayrılmak için dahiyane yollar düşünürken, aynı keşfedici ruh ile bir yandan da kendi gezegenimiz, Dünya’yı daha rahat bir yer haline getirmeye çalışabiliriz.</p>
+                        
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

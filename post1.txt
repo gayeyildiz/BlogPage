@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/b2.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(255, 28, 134)">Beynimizin yarısıyla yaşayabilir miyiz?</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Beyninin bir kısmı olmadığı halde normal yaşamını sürdüren uç örnekler var. Tom Stafford bunun nasıl mümkün olabildiğini açıklıyor.</p>
+                        <p>Beynimizin ne kadarına gerçekten ihtiyaç duyuyoruz? Beyninin bir kısmı olmayan ya da hasara uğramış olan insanlarla ilgili haberler son zamanlarda medyada birkaç kez yer aldı. Bu vakalar beynin nasıl çalıştığını tam olarak anlamadığımız gibi onu yanlış ele alıyor olabileceğimizi de gösteriyor.</p>
+                        <p>Çoğumuz bir telefon numarasını bile ezberlemekte zorluk çekeriz, kaldı ki binlerce rakamlı bir sayıyı hatırlayalım. Fakat 24 yaşındaki üniversite öğrencisi Çinli Çao Lu, 2005’te pi sayısının 67.980 rakamını ezberleyerek dünya rekoru kırmıştı.</p>
+                        <p>Birkaç ay önce, bir kadının beyninin arka kısmındaki beyincik bölgesinin olmadığına dair bir haber çıktı. Yani bu kısım hasar görmüş değildi, hiç yoktu. Bazı tahminlere göre toplam beyin hücrelerimizin yarısı beyincikte bulunuyor. Ama 24 yaşındaki bu kadın normal bir yaşam sürüyordu. Eğitimini tamamlamış, evlenmiş ve normal bir hamileliğin ardından bir çocuk sahibi olmuştu.</p>
+                        <p>Ama bu durumun kadın üzerinde tümüyle etkisi yok denemezdi. Ömrü boyunca tereddütlü, hantal hareket etmişti. Ama asıl şaşırtıcı olanı, beyninin bir kısmı olmayıp da hareket edebilmesiydi. Beyincik beynin öylesine temel bir bölgesidir ki ilk omurgalı canlılarda ortaya çıkmıştır. Dinozorların hayatta olduğu dönemde bile köpekbalıklarının beyincikleri gelişmiş durumdaydı.</p>
+                        
+                        <h2 class="section-heading">Basit bir şema yok</h2>
+                        <p>Bu olay beyin konusunda bilimin içinde bulunduğu acıklı durumu gösteriyor. Beyincik gibi bazı önemli bölgelerin işlevi konusunda bile fikir ayrılıkları var hala. Bu tür vakalar ortaya çıktığında beyin hakkındaki cehaletimiz de gün yüzüne çıkıyor. Hastanelerdeki beyin taramaları, beyin yapısının kişiden kişiye farklılık gösterebildiğini ortaya koyuyor. Bu farklılıkların, yakından gözlendiğinde davranışlarımız üzerinde etkili olduğunu görmek de mümkün olabilir.</p>
+                        <p>Beyinciği olmayan kadın vakası, beyinle ilgili basit bir şemanın bulunmadığını gösteriyor. Beyni, görme bölgesi, açlık ya da sevgi hissi bölgesi gibi bölümlere ayırarak basitleştirmek cazip gelse de aslında beyinde böyle bölgeler yoktur. Çünkü o, her işlevden sadece bir bölgenin sorumlu olduğu teknolojik bir aygıt değildir.</p>
+                        <a href="#!"><img class="img-fluid" src="assets/beyincik.jpg" alt="..." /></a>
+
+                        <h2 class="section-heading">Beyninde şeritle yaşamak</h2>
+                        <p>Bir başka vaka ise bir süredir beyninde şerit paraziti ile yaşayan bir adamla ilgili. Dört yıldan beri beyne yuvalanmış olan bu şerit, epilepsi krizlerine benzer nöbetlere, hafıza sorunlarına ve ilginç koku duyumlarına yol açmış. Aslında beyinde canlı bir varlığa rağmen az denebilecek yan etkiler bunlar.</p>
+                        <p>Beyin gelişmiş bir teknolojik aygıt olsaydı işlemeye devam etmesi mümkün olmazdı. Beynin dayanıklılığının nedenlerinden biri onun ‘esnek’ olması, bulunduğu ortama uyum sağlama özelliği. Bir başka neden ise Nobel Ödülü sahibi nörolog Gerald Edelman tarafından geliştirilen bir konseptle ilgili olabilir. Edelman biyolojik fonksiyonların çok sayıda yapı tarafından desteklendiğini fark etmişti; örneğin bir tek fiziksel özelliğin birçok genin kodlaması sonucu olması gibi. Böylece bir tek genin ortadan kalkması o özelliğin ortaya çıkmasını engelleyemiyor. Bir tek fonksiyonun çok sayıda farklı yapılar tarafından desteklenmesi özelliğini Edelman ‘soysuzlaşma’ olarak adlandırdı.</p>
+                        
+                        <h2 class="section-heading">Bir fonksiyon, birçok bölge</h2>
+                        <p>Aynı şey beyin için de geçerli. Beynimizin tek tek fonksiyonları belli bölgelerde toplanmış olmayıp birçok bölgenin desteğiyle gerçekleşiyor; bunların işleyişi benzer olsa da küçük farklılıklar da içeriyor. Bir tarafta meydana gelen aksaklık diğer bölgeler tarafından telafi ediliyor.</p>
+                        <p>Beynin işleyişini inceleyen bilişsel nörologların beyindeki farklı bölgelerin ne iş yaptığını tespit etmeye çalışırken karşılaştığı sorun da bu işte. Bir bölgeye sadece bir fonksiyonu atfederseniz yanlış sonuçlara varırsınız.</p>
+                        <p>Beyincik tek tek özel hareketleri kontrol eden bölge olarak biliniyor. Fakat bazal gangliya ve motor korteksi adı verilen bölümler de vücut hareketlerimizle yakından ilgilidir. Hepsi de aynı şeye katkıda bulunduğunda her bir bölgenin tam olarak işlevini belirlemeye çalışmak yanlış bir yaklaşım olur.</p>
+                        <p>Hafıza da çok sayıda beyin sistemlerinin kontrolünde olan temel bir biyolojik fonksiyon. Daha önce bir kez gördüğünüz birine rastladığınızda o kişinin iyi biri olduğunu ya da yaptıkları iyi bir şeyi hatırlıyor olabilir, ya da sizde iyi duygular uyandırdığını düşünebilirsiniz. Bunların tümü o kişiye güvenebileceğinizi farklı şekillerde size hatırlatan hafıza biçimleridir.</p>
+                        <p>Edelman ‘soysuzlaşma’ özelliğini doğal seleksiyonun kaçınılmaz bir ürünü olarak görüyor. Bu olgu beyne ilişkin olağandışı durumların neden felaketle sonuçlanmadığını açıklıyor aslında. Bir de bilim insanlarının neden beynin işlevlerini anlamakta zorluk çektiğini.</p>
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

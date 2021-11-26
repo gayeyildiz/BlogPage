@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/sg1.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(255, 238, 0)">Güney Kore’de ‘Squid Game’ Kostümleri Giymiş Binlerce İşçi Eylem Yaptı</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        
+                        <p>Güney Kore'de binlerce sendika işçisi, işçi haklarının iyileştirilmesi talebiyle geçtiğimiz hafta Çarşamba günü greve gitti. Güney Kore Sendikalar Konfederasyonu'nun yaklaşık 80.000 üyesi Güney Kore'de 13 farklı şehirde gösteri yaptı. Bazı protestocular, gerçek hayatta dizideki karakterler gibi mücadele ettiklerini söyleyerek "Squid Game" kostümleri giydiler.</p>
+                        
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="500" src="assets/sg.jpg" alt="..." /></a>
+                        </div>
+
+                        <p>Netflix’in popüler dizisi "Squid Game”deki kostümlerden giyen binlerce sendika işçisi, Çarşamba günü Güney Kore'de iş güvenliği talep ederek sokaklarda yürüdü. Güney Kore'nin 13 farklı kentindeki Güney Kore Sendikalar Konfederasyonu'nun yaklaşık 80.000 üyesi, geçtiğimiz hafta Çarşamba günü greve gitti ve ulusal hükümeti düzensiz işçiler için daha iyi çalışma koşulları ve asgari ücret zammı uygulamaya çağırdı. Yalnızca Seul'de 27.000 kişi protesto için toplandı ve yerel yetkililer, mitinglerin çoğunun gerçekleştiği Gwanghwamun Plaza'da, kalabalığı kontrol etmek için "otobüs duvarları" ve barikat kurmaları için yaklaşık 12.000 polisi görevlendirdi. </p>
+                        <p>Channel News Asia'nın Kore Büro Şefi attığı twette, bazı sendika işçilerinin, son zamanlarda oldukça popüler olan borçlu ve yoksul bir grup insanın hayatta kalma savaşını anlatan dizideki karakterler gibi, "kendilerinin de geçimlerini sağlamak için mücadele ettiğini" söylediğini bildirdi. Eylül ortasında yayın platformuna çıkışından bu yana küresel ilgiyi üzerine çeken Netflix orijinal dizisi, 45 milyar won veya yaklaşık 40 milyon dolar kazanmak için ölümcül sonuçları olan çocuk oyunları oynamaya davet edilen mali çöküşün eşiğindeki 456 yetişkine odaklanıyor. </p>
+                        <p>Uluslararası Mesleki ve Çevre Sağlığı Dergisi'nde Temmuz 2016'da yayımlanan bir makaleye göre Güney Kore’de işçiler haftada ortalama 44,6 saat çalışıyor ki bu süre OECD üye ülkelerindeki ortalama haftalık çalışma saatinden (32.8) daha yüksek.  Uzun saatler çalışmalarına rağmen borçla geçinebilen Güney Koreli işçiler diziyi kendilerine yakın bulmuş olmalılar. </p>
+                        
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="500" src="assets/sg2.jpg" alt="..." /></a>
+                        </div>
+
+                        <p>2009 yılında iflas başvurusunda bulunduktan sonra binlerce kişiyi işten çıkaran Güney Koreli Ssangyong Motors şirketinde çalışan eski bir işçi olan Lee Chang-keun, ABC News'e verdiği demeçte, "bazı sahneleri izlemek çok zordu" diyor ve ekliyor: ‘‘ ‘Squid Game’de, işten çıkarıldıktan sonra hayatta kalmak için çabalayan, kızarmış tavuk lokantalarını işletmek için mücadele eden veya 'daeri'  (sürücülerin sarhoş insanları kendi arabalarıyla eve götürdüğü bir kiralama hizmeti) sürücüleri olarak çalışan karakterleri görüyorsunuz. Bu bana ölen iş arkadaşlarımı hatırlattı.’’</p>
+                        <p>Reuters’ göre, miting, ülkenin tam olarak aşılanmış dört kişi bir araya gelmesi durumunda yalnızca sekiz kişiye kadar ve diğer bölgelerde on kişiye kadar toplanmasına izin veren ülkenin katı sosyal mesafeli COVID-19 politikalarını açıkça ihlal etti. Şehrin yetkililerinin uyguladığı sıkı sosyal mesafe önlemleri kapsamında Seul'de ve Seul’ü içine alan bölgede tüm mitingler yasaklandı. Ayrıca, Kore Devlet Başkanı Moon Jae-in sendika çalışanlarını COVID-19'un yayılmasını önlemek için bir araya gelmeme çağrısı yaptı.</p>
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

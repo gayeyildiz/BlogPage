@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/kariyer1.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(248, 237, 86)">Kariyer Yönetimi Nedir?</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        
+                        <p>İş ve eğitim alanlarının gün geçtikçe daha rekabetçi bir ortam haline gelmeleriyle bulunduğumuz alanda sıyrılıp öne çıkabilmek gittikçe daha da önemleşiyor. Bu alanlardaki değişim ve gelişmelerle beraber artık çok erken dönemlerde kendimiz için detaylı bir plan; B planı hatta C planına kadar oluşan bir kariyer planlaması yapma ihtiyacımız olabiliyor. Erişmek istediğimiz kariyere giden yolu güçlendirmek ya da sahip olduğumuz kariyeri daha iyi bir konuma getirebilmek için kariyer yönetimi ve planlaması hakkında fikir sahibi olmamız gereken noktaları bu yazıda ele alıyoruz.</p>
+                        <p>Önce kısaca kariyer yönetimi kavramını açıklamakla başlayalım. Kariyer yönetimi, kendimiz için tasarladığımız kariyer planlarına ulaşabilmemiz için yaptıklarımız olurken aynı zamanda üslerimiz tarafından da desteklenmesi olarak ifade edilebilir. Bireyin, tüm çalışma hayatı boyunca aldığı yol ve herhangi bir alanda ilerleyip deneyim elde ederek becerilerle kendini donatmasına kariyer denmekte. İş hayatımız boyunca edindiğimiz pozisyonlar ve bu pozisyonlarda yaptığımız işler; görevlerimizle ilgili davranış ve tutumlarımızın hepsi kariyerimizi oluşturup şekillendirmekte. Sahip olduğumuz kariyerin gelişimi ise detaylandırılıp iyi düşünülmüş bir kariyer planlaması ile titizlikle yapılan bir kariyer yönetiminin birleşimi ile olmakta.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/kryr.jpg" alt="..." /></a>
+                        
+                        <p>Günümüzdeki yoğun rekabet ortamı içerisinde hem kendimizin hem de çalıştığımız yerin ayakta kalabilmesi ve rekabette üstünlük sağlanılabilmesi için değişen koşullara da uyum sağlanması gerekmekte. Aslında kariyer yönetimi, sadece kendimizin faydasına olan bir yapı değil, aynı zamanda bağlı olduğumuz iş yerinin gelişimi ve oradan alacağımız maksimum fayda için de belirleyici bir unsur olmakta. Kariyerimizle ilgili arzularımızın, iş yerinin amaçlarıyla birleştiği en yüksek orta nokta ise iyi bir kariyer yönetiminin amaçları arasında gösterilmekte.</p>
+                        <p>Kariyer planlaması için basitçe, ilgi ve becerimizin olduğu alanlarda belirlediğimiz amaçlara ulaşmak için yaptığımız planlama ve süreç olduğunu söyleyebiliriz. Peki kariyerimizi planlarken hangi amaçları göz önünde bulundurmalıyız? Planlamada öncelik, kendi kariyer başarılarımızı sağlamak olmakta. Ardından, iyi bir eğitim ve kariyer olanaklarının sonucu olarak ise iş başarısının yükselmesini sağlamayı temel amaçlar arasında gösterebiliriz. Yani, kendi çalışma yaşamımız boyunca kariyer amaçlarımıza ulaşabilmemiz için ya da kendimizi geliştirmemiz için gerekli eylemleri kapsayan programın tümü “kariyer planı” olmakta. Bu plan sayesinde, kendi yetenek ve ilgi alanlarımızı daha sağlıklı bir şekilde değerlendirip kariyer amaçlarımızı ortaya koyar ve uygulanabilir hareketlerde bulunabiliriz.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/kryr1.jpg" alt="..." /></a>
+                        
+                        <p>Kariyer yönetiminin faydalarına değinecek olursak bunu kişi düzeyinde bireysel faydalar ve bağlı olduğumuz yer düzeyindeki örgütsel faydalar şeklinde iki temel sınıfta inceleyebiliriz. Önceden iyi bir bilgilenme ile olası kariyer tercihlerinde bulunmak, işimizde hayal kırıklığı yaşama ihtimalini azaltmak ve çatışan kariyer hedeflerimiz arasında daha tutarlı bir hale gelmeyi planlı şekilde yapılan kariyer yönetiminin kendimize olan faydaları arasında sayabiliriz. Kariyer yönetiminden en yüksek verimin alınabilmesi için aşamalandırılmış bir bireysel kariyer planlamasına da ihtiyaç duymaktayız. Bu aşama ve basamaklar elbette hepimizde farklı sayıda ve içerikte olmakla beraber sonuç olarak aynı yolu izlemekte. Örneğin, kariyer planlamasının ilk aşaması için kendimizi tanıyıp objektif değerlendirmemizi söyleyebiliriz. Daha sonra gelen aşamalar ise alternatif işlerin farkına varmak olabilir. Bununla beraber kişisel özelliklerimiz ile alternatifleri karşılaştırıp hem kendimize ve hem de beklentilerimize en çok uyana yönelebiliriz.</p>
+                        <p>Son olaraksa, kariyer yönetiminin çok önemli bir parçası olan “kariyer seçimi süreci” kavramına kısaca değinelim. Aslında kendimizin ilgi duyduğu alanlar ve yetilerimizin, iş tarafının bize sunduğu imkanların en iyisiyle yaptığı kesişim kariyer seçimini oluşturmakta. Yani hem bize sunulanlar ve hem de kendi arzularımızın buluştuğu en ideal noktanın bizim için en verimli kariyer seçimi olduğu söylenmekte.</p>
+                       
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

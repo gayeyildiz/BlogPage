@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/metoo.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgba(243, 139, 191, 0.993)">Bir Kar Tanesinden Çığa Dönüşmek: Me Too Hareketi</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Neredeyse her yeni güne bir kadın cinayeti ya da şiddet haberi ile uyanmaktayız. Politik olan bu durumlar, dünyanın her bölgesinde meydana gelse de Türkiye’deki durum diğer ülkelere kıyasla fazlasıyla vahim. Ülkemizde gerçekleşen kadın cinayetlerinin ya da kadına yönelik şiddet zanlıları ne yazık ki almaları gereken cezalar ile karşılaşmıyorlar. Bu adaletsizlik de birçok insanı çileden çıkartarak eylem yapmaya itiyor. Politik hakların eylemler ile kazanılabileceği doğru fakat bu eylemlerin geniş bölgelere yayılması ile çıkarılan seslerin ulaştığı yerler genişletilmeli. Bizler de ilk olarak Amerika’da başlayan ve daha sonra Dünya’nın her yerine yayılan Me Too (Ben De) Hareketi’ni sizlerle paylaşmak istiyoruz.</p>
+                        <a href="#!"><img class="img-fluid" src="assets/metoo4.jpg" alt="..." /></a>
+                        <p>Me Too Hareketi, cinsel saldırıların ve şiddetin sosyal medyada ifşa edilmesine dayanan bir kadın hareketidir. Bu hareket, Tarana Burke isimli Amerikalı bir kadın aktivist ve on üç yaşındaki bir kızın kurduğu duygusal bağ sayesinde ortaya çıktı. Toplumsal cinsiyet eşitliği ve ırksal adalet alanlarında çalışan Burke, 1997 yılında çocukların katıldığı bir gençlik kampında görev alarak fiziksel anlamda saldırıya uğrayan on üç yaşındaki bir kızla tanıştı. Kızın yaşadıkları ve bunları ifade ediş şekli Burke’yi öylesine etkiledi ki Burke bu durumu diğer kız çocuklarının yaşamaması için büyük bir adım atma kararı aldı. Bahsi geçen kızın anlattıklarına hitaben ‘’O anda ona yardım etmenin bir yolu yoktu ya da verebileceğim bir cevabım yoktu. ‘Ben de’ bile diyemedim.’’ sözlerini kullanan Burke, bu anektodumsu cümleleri ile Me Too Hareketi’nin iskeletini oluşturmuş oldu. Senelerce bu on üç yaşındaki kızı ve hikayesini unutamayan Burke, 2006 yılında MySpace platformu üzerinden ses getirecek bir kampanya başlatma kararı aldı. </p>
+                        <p>Burke, başlattığı kampanyada cinsel istismara, cinsel saldırıya ve cinsel şiddete uğrayan kadınların sessiz kalmaması gerektiğini vurguladı. Tüm taciz ve tecavüz vakalarının yanı sıra kadınları zorlayan herhangi bir faktör içeren tüm durumların ifşa edilmesini isteyen Burke, MySpace’te oluşturduğu kampanyanın büyük ses getirmesinden sonra kar amacı taşımayan ve cinsel saldırı mağdurlarına destek sunan bir kurumun açılışı için kapı araladı. Burke’nin dünya üzerindeki tüm kadınları destekleyici eylemlerinden sonra Me Too’nun somut olarak gündeme gelişi 2017 yılında gerçekleşti.</p>
+                        <a href="#!"><img class="img-fluid" src="assets/metoo3.jpg" alt="..." /></a>
+                        <p>2017 yılında Amerikalı eski film yapımcısı Harvey Weinstein hakkında taciz suçlamaları ortaya çıktı ve bu yapımcının cinsel suçlu olduğu kanıtlandıktan sonra da kendisine yirmi üç yıl hapis cezası verildi. Ortaya çıkan bu sarsıcı suçlamaların ardından, 15 Ekim 2017 tarihinde Amerikalı oyuncu ve aktivist Alyssa Milano sosyal medya platformları üzerinden kadınlara bir çağrıda bulundu. Milano, cinsel saldırıya uğramış olan kadınların #MeToo hashtagiyle başlarına gelen durumu herkese duyurmalarını istedi. Ayrıca, bir tweetinde ‘’Eğer cinsel saldırıya uğradıysanız bu tweete ‘me too’ yazarak cevap verin.’’ cümlesini kullanan Milano’nun paylaşımları dünya çapında popülerleşti. dünyanın her yanında milyonlarca kadın Tarana Burke ve Alyssa Milano’nun destekleri sayesinde başlarına gelen cinsel saldırılardan bahsederek zanlıları ifşa ettiler.</p>
+                        <p>Pek çok kadının #MeToo hashtagiyle tacizcileri, şiddet yanlılarını ve tecavüzcüleri ifşa etmesi sonucunda Hollywood bünyesinde bulunup kadınlara cinsel saldırı uygulayan çeşitli isimlerin yaptıkları da ortaya çıkartıldı. Harvey Weinstein de bu isimler arasında yer almaktaydı. Hollywood’daki cinsel saldırıların meydana çıkartılması da Me Too Hareketi’nin sesini yükselterek bu hareketin her yere yayılmasını sağladı. İş yerlerinden yaşam alanlarına kadar birçok bölgede konuşulan bu kadın hareketi, dünya genelindeki en büyük akımların arasında bulunuyor. Hatta, 1 Aralık 2017 tarihinde ‘me too’ kelimesi İsviçre’de yılın kelimesi bile seçildi. </p>
+                        <a href="#!"><img class="img-fluid" src="assets/metoo2.jpg" alt="..." /></a>
+                        <p>Hala aktifliğini sürdüren Me Too Hareketi, ırk, inanç ya da yaş gözetmeksizin tüm kadınlara destek olmakta. Eğer bir cinsel saldırıdan haberdarsanız bunu saklamak yerine bu saldırının gözler önüne çıkartılmasını sağlamalısınız. Bu yüzden, Me Too Hareketi’nde yer alarak hem kendinizi hem de diğer kadınları destekleyebilirsiniz. Bu kadın hareketi sayesinde ataerkil otoritede büyük kırılmalar yaratılabileceğini unutmadan tüm suçluların ve suçların gün yüzüne çıkartılması için bir kapı aralamalısınız! </p>
+                        
+
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

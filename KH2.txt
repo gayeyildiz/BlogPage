@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/elonMusk.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgba(86, 255, 213, 0.521)">Elon Musk'ın Neuralink Projesiyle Beynimize Çip mi Takılacak?</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        
+                        <p>İnternetin ve teknolojinin günümüzdeki hızı ile yarışabilecek çok az şey vardır, belki de hiçbir şey yoktur. Bu hızlı çağın ise öne çıkan belli başlı isimleri var ve hepimiz onları şöyle ya da böyle ismen biliyoruz. İsmen biliyoruz ama aile ilişkilerini, hangisinin kimin çocuğu olduğunu, nerelerden geldiğini, bağlantılarını pek bilmiyoruz. Bilmediğimiz gibi bunu yeterince önemsemiyoruz da. Teknolojinin geldiği, gelmeyi vadettiği noktayı ağzı açık izlerken insanın bunun neresinde olduğuna, olacağına dair çok az soru var. Neyse, bu belki de benim yüzümün yarı yaşlı hâlidir ve böyle anlarda o ortaya çıkıyordur. Bugün size bugünün internet devlerinden Elos Musk ile duymaya başladığımız Neuralink kavramını anlatmaya çalışacağım. Musk ile beraber sekiz nöroloğun beyin – makine arayüzleri geliştirmek amacıyla üzerinde çalıştığı Neuralink nedir? Beynine çip takılan domuzun keyfi yerinde mi? Neden Neuralink’ten övgü ile bahseden yazılar, görüşler her bir yanımızı sardı ve ona şüphe ile yaklaşan bakış açıları neden yeterince duyulmuyor?</p>
+                        
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="350" src="assets/cip1.jpg" alt="..." /></a>
+                        </div>
+
+                        <p>Twitter’da paylaştığı iletilerle hisse senetlerini dahi oynatabilecek güce sahip Elon Musk, 2016 yılında Neuralink adlı bir şirket kurdu. Amacı çok yüksek bant genişliğine sahip beyin – makine arayüzleri geliştirmek olan şirket, 9 Nisan 2021’de zihin güçleri ile masa tenisi oynayan bir maymunun videosunu paylaşmıştı. Musk’a göre geleceğin teknolojisi olan Neuralink, Parkinson ve Alzheimer gibi beyinsel hastalıkların dahi tedavisi olabilir. Twitter’da 2021’in sonlarına doğru Neuralink’i insanlar üzerinde de güvenle test etmek için çalıştıklarını söyleyen Musk, bu iş için birçok nörolog ile kolları sıvadı.</p>
+                        <p>Biraz daha geriye gidelim. 28 Ağustos 2020 yılında Elon Musk ve arkadaşları beyin çipi olarak da bilinen Neuralink’in teknolojisini tanıttığı bir toplantı gerçekleştirdi. Buna göre şirketin de ismi olan Neuralink adlı beyin çipleri, beyin ve omurilik problemlerinin önüne geçebilecek. Özellikle yaşlılığın getirdiği bir dizi sağlık sorununa çözüm olabilecek şekilde tanıtılan Neuralink, beyne takılıyor ve böylece beyindeki hareketleri takip ediyor.</p>
+                        <p>2020’nin yine yaz ayında ise Elon Musk, “Gertrude” adını verdiği ve beynine bozuk para büyüklüğünde çip takılmış bir domuzu tanıttı. Beyin ve bu makine arasında bir arayüz oluşturmak üzere yapılan çalışmalarda şirketin ilerlemesini de böylece herkese gösteren Musk, internette de “beyninize takılan ve küçücük kabloları olan bir çeşit akıllı bileklik gibi” açıklamasında bulundu. İddiaya göre yaratılmak istenen bu arayüz, nörolojik sorunlar yaşayan bireylerin telefonlarını ya da bilgisayarlarını zihinleri ile kontrol etmelerini de sağlayacak.</p>
+                        
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="350" src="assets/cip.jpg" alt="..." /></a>
+                        </div>
+
+                        <p>Gertrude adı verilen domuz, beynine takılan çip sonrasında samanları koklayıp yemeye başlamıştı. Bu sırada da beynindeki nörolojik işlemler bir grafik üzerinden takip edildi. Neuralink adlı şirketin geliştirdiği ve aynı adı taşıyan bu cihaz bugün 3 binden fazla elektrottan oluşuyor. Saç telinden bile ince elektrotların ardından kontrol çubuğu da böylece 1000’den fazla beyin hücresinin aktivitesini izleyebiliyor.</p>
+                        <p>Peki cihazın tanımlanmasında adı geçen “arayüz” ne demek? Öyle ya: Neuralink bir beyin – makine arayüzü olarak tanımlanıyor. Birbiriyle iletişimde olabilecek fakat birbirinin dilinden anlamayan iki canlı, iki sistem, iki makine, iki bilgisayar programı vs.’nin arasında tercümanlık yapacak cihaza arayüz deniyor. “Interface” sözcüğünden direkt olarak çevrilen arayüz kabaca bu anlama geliyor. Mesela televizyonların kumandaları bir arayüzdür. Bilgisayar fareleri de aynı şekilde bir arayüz olarak örnek gösterilebilir.</p>
+                        
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="350" src="assets/cip3.jpg" alt="..." /></a>
+                        </div>
+
+                        <p>Gelgelelim bilindiği gibi beyin çok karmaşık ve bugün bile gizemleri tamamen çözülememiş bir organ. Hâlâ birtakım aktivitelerine dair keşiflere ulaşılamadı ve hâlen keşfedilmeye devam ediyor. 21. yüzyılda olmamıza karşın beynin sırları çözülmedi. Dolayısıyla beynin dilinden anlayacak bir arayüzün geliştirilmesi bugünkü bilgiler ışığında pek mümkün görünmüyor. Ne var ki Elon Musk, “insanlar Neuralink’e ilgi duysun, beynin dilinden anlayacak teknolojiyi de geliştiririz,” şeklinde soyut ve çocuksu açıklamalar yapmaktan yana.</p>
+                        <p>Neuralink’in zihinsel sağlık sorunlarına çözüm olmasına yönelik vaatlerinin yanı sıra farklı vaatleri de bulunuyor. Örneğin, gerekli yazılımlar ile donatılmış ilgili çip, beyninize takıldığı zaman kısa süre sonra çok iyi İngilizce, İtalyanca konuşabileceksiniz. Bunlar tabii ki insanı tavlayan hayaller ve vaatler. Yalnız, konunun bambaşka, hukuki ve ahlaki yanları da yok değil… Musk’un “Neuralink” adını verdiği şirket ve aynı adı taşıyan bu çipvari arayüz, bunu insan beynine taktıklarında bir dilin saatler içerisinde öğrenilebileceğini, hafızanın da bir yere kaydedilebileceğini söylüyor. Bu aslında işin biraz pazarlama noktası. Çünkü demin de dediğimiz gibi insan beyni, hâlâ keşfedilmemiş çok fazla yönü olan bir organ. Kapitalizmin de teknoloji ile kol kola ilerlediği günümüzde bu gibi “iddialı” hamlelere şüphe ile yaklaşılıyor.</p>
+                       
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="350" src="assets/cip2.jpg" alt="..." /></a>
+                        </div>
+                        
+                        <p>Uzay çalışmaları için SpaceX’i, elektrikli araç üretimi için de Tesla’yı kuran Elon Musk, bugünün pek çok dünya zengininden biri. Bununla beraber zengin ve güçlü olan, aynı zamanda kendini çok vizyoner olarak tanımlayan pek çok milyarderin de potansiyel bir tehlike barındırdığını unutmamak lazım. Olayın bir de nörohukuk tarafı var. Nörohukuk en yalın hâliyle insan beyni ve hukuk arasındaki bağlantıyı, ilişkiyi kuruyor.</p>
+                        <p>Nörobilimdeki gelişmeleri referans alarak kendini geliştiren nörohukuk: Özgür irade, sorumluluk, yaptırım, niyet gibi kavramlara bakıyor. Örneğin Ceza Hukuku açısından da değişiklikler söz konusu olabilir. “Düşünce” yoluyla doğrudan etki edebilme ihtimali, suç kavramındaki “fiil / fail” durumunun de yerini alabilir. Bu cihazların kötü amaçlı kullanımlarını sınırlandırabilecek herhangi bir yasal düzenleme de mevcut değil. Mesela bahsedilen çipteki elektrot sayısı artarsa ortaya çıkabilecek ciddi sorunlardan söz edilmiyor. Bu açıdan etik tartışmalar, gelişen teknolojinin gölgesinde bırakılmaya devam ediliyor.</p>
+                        <p>Musk, bunu insanlığı tehdit ettiğini düşündüğü yapay zekâya karşı bir savunma olarak da öne çıkarıyor. Ona göre yapay zekânın kontrolsüz gelişmesi, insanlık için varoluşsal bir tehdit. Fakat hareketler yerine düşüncelerin okunması amaçlanıyorsa ne yapacağız? İnsan bundan nasıl kaçabilir? Düşünceleri okumak için kaç elektrota ihtiyaç olacak? Ayrıca bilgisayar tabanlı her tür sistemin siber saldırganlar tarafından ele geçirilebilme ihtimali var. Böyle bir durumda Neuralink de ele geçirilebilir ve kötü amaçlarla kullanılabilir. Neuralink her ne kadar hafıza kaybı, işitme kaybı, depresyon, Parkinson ve benzeri hastalıklar için bir tedavi vaadi ile ortaya çıksa da yarın öbür gün bunun bir kontrol mekanizmasına dönüşmeyeceğini kim söyleyebilir?</p>
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

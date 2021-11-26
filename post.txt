@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/memory.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="post-heading">
+                            <h1 style="color: orange;">Hafızanın sınırı var mı?</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on November 17, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Hafıza kartı dolduğunda daha fazla fotoğraf kaydedemeyen dijital fotoğraf makinelerinin tersine insan beyninin kaydetme kapasitesi hiç azalmıyor gibidir. Fakat insan beyninin sınırsız kaydetme yeteneğini algılamak zordur.</p>
+                        <p>Nörologlar uzun süre beynin kapasitesini ölçmeye çalıştı. Ancak hafızasıyla inanılmaz şeyler başaran insanların bilişsel becerileri şaşırtıcı sonuçlar sunuyor.</p>
+                        <p>Çoğumuz bir telefon numarasını bile ezberlemekte zorluk çekeriz, kaldı ki binlerce rakamlı bir sayıyı hatırlayalım. Fakat 24 yaşındaki üniversite öğrencisi Çinli Çao Lu, 2005’te pi sayısının 67.980 rakamını ezberleyerek dünya rekoru kırmıştı.</p>
+                        <p>Bazı dahiler ise isimlerden, tarihlere, en ince detaylı karmaşık görsel bilgilere kadar her şeyi akılda tutabiliyor. Nadiren sağlıklı insanların bir kazadan sonra bu hale gelmesi de söz konusu olabiliyor. 10 yaşındaki Orlando Serrell, beysbol sopasıyla kafasının sol tarafına aldığı darbenin ardından sayısız araba plakası ezberlemeye, onlarca yıl öncesine ait bir tarihin hangi güne denk düştüğünü söylemeye başlamıştı.</p>
+                        <p>Peki nasıl oluyor da bu insanlar ortalama bir beynin hafıza kapasitesini bu kadar aşabiliyor? Bu olgular insan beyninin gerçek kapasitesine dair ne anlatıyor?</p>
+                        
+                        <h2 class="section-heading">Beyin Eğitmek</h2>
+                        <p>Hafıza kapasitemiz beynin fizyolojik yapısına bağlıdır. Beyin 100 milyar sinir hücresinden (nöron) oluşur. Bunlardan sadece bir milyarı uzun dönemli hafızada rol oynar; bunlara piramidal hücreler denir.</p>
+                        <p>Bir nöronun bir birim hafızaya denk düştüğünü varsayarsak beynimizin tümüyle dolmuş olması gerekirdi. Psikoloji profesörü Paul Reber, nöron sayısı kadar hafızanın büyük bir kapasite olmadığını ve hemen dolacağını ifade ediyor.</p>
+                        <p>Bu nedenle araştırmacılar hafızanın nöronlar arasındaki bağlantılarda oluştuğuna inanıyor. Her nörondan çıkan ağ şeklindeki bağlantılar binlerce başka sinir hücresine ulaşıyor.</p>
+                        <p>Reber bu şekilde hafıza kapasitesinin büyük bir artış gösterdiğine, “tonlarca alan” açtığına işaret ediyor.</p>
+                        <p>O halde olağanüstü hafıza kapasitesi olan insanların beyinleri de mi olağanüstü? Hayır. Pi sayısını ezberleyen Lu gibi insanlar normal olduklarını, sadece seçili bilgileri hatırlama konusunda beyinlerini eğittiklerini ifade ediyor.</p>
+                        <a href="#!"><img class="img-fluid" src="assets/think.jpg" alt="..." /></a>
+
+                        <h2 class="section-heading">Hafıza Sarayı</h2>
+                        <p>ABD Hafıza Şampiyonu Nelson Dellis, bu konuya eğilim göstermeden önce çok kötü bir hafızası olduğunu, ancak pratik yoluyla durumun değiştiğini söylüyor. “Birkaç haftalık eğitimin ardından, normal insana imkansız gelen bir şey yapmaya başlıyorsunuz. Oysa hepimizde var bu yetenek,” diyor.</p>
+                        <p>Dellis yıllar önce beyin jimnastiğine başladığında bir deste oyun kağıdının sırasını ezberlemek 20 dakikasını almıştı. Bugünse bu işi 30 saniyede yapıyor. Fakat bunun için günde beş saat hafıza alıştırmaları yapıyor.</p>
+                        <p>Dellis’in kullandığı sınanmış yöntemlerden biri “hafıza sarayı” inşa etmek. Bunun için çok iyi bildiği bir yapıyı kafasında canlandırıyor. Hatırlamak istediği şeyleri birer görüntü olarak düşünüp hayalindeki kapının yanındaki masaya diziyor. Sonra mutfak masasına geçiyor vs. “Hayalinizde o yapıya girip oraya bıraktığınız görüntüleri ezberlediğiniz şeyler olarak dile getiriyorsunuz,” diyor.</p>
+                        <p>Pi sayısı ezbercileri de “hafıza sarayı” ya da bir sayı dizisini hikayenin bir cümlesine dönüştürme gibi benzer yöntemler kullanıyor.</p>
+                        
+                        <h2 class="section-heading">Bağlantılı düşünme</h2>
+                        <p>Bu hafıza stratejilerinin yaygın başarı göstermesi, aklına koyarsa herkesin bunu yapabileceği fikrini geliştiriyor. Fakat beyin jimnastiğine bu kadar uzun zaman ayırmadan yapılabilir mi bu? Sydney Üniversitesi’nden Allen Snyder bunu hedefliyor. Doğru teknoloji ile “içimizdeki bilgini” ortaya çıkarmanın mümkün olduğunu söylüyor.</p>
+                        <p>Snyder’e göre insan beyni önemsiz küçük ayrıntılarla değil, bağlantılı düşünme yoluyla hareket ediyor. “Bütünü oluşturan parçaların değil, o bütünün farkındayız,” diyor.</p>
+                        <p>Örneğin bir deneyde deneklerden otomobil parçalarından oluşan bir alışveriş listesini ezberlemelerini istemiş, onlara otomobil kelimesinden hiç söz etmemiş olmakla birlikte tümü de ona “otomobil” kelimesini zikretmişti. “Parçaları birleştirip bütünü oluşturdular,” diye açıklıyor Snyder bu durumu.</p>
+                        <p>Yani duyularımızın beyne ilettiği birçok veri aslında bilince çıkmıyor. Fakat üstün zekalı insanlarda bu üst düzey bağlantılı düşünme yanı devreye girmez; böylece sayısız ayrıntıyı hatırlarlar. Örneğin alışveriş listesini hatırlarken tek tek lambaları, silecekleri, ön camı vs. hatırlarlar; bunlardan yola çıkarak hemen otomobil bağlantısına sarılmazlar.</p>
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

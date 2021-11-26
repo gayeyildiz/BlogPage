@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/kh.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(248, 237, 86)">Facebook'tan Metaverse Evrene Doğru: Metaverse Nedir?</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        
+                        <p>“Ürkütücü teknoloji” diye bir şey duydunuz mu? Kendi dost sohbetlerinizde belki buna benzer bir ifadeyi siz de cümle içinde kullanmışsınızdır fakat genel olarak teknolojinin ilerlemesine dair hiçbir haberde bu ifadeyi görmek mümkün değil. Özellikle “The Great Hack” ve “The Social Dilemma” belgesellerinde anlatılanlar ile son dönemde tekrar tekrar dikkat çeken Facebook, yakın zamanda adını değiştirdiğini duyurdu. Bugün akıllı telefonunuzdan Instagram’a girerken de görebileceğiniz gibi, alt tarafta artık “Facebook” değil, “Meta” yazıyor. Facebook şirketinin kurucusu ve CEO’su Mark Zuckerberg şirketin adının “Meta” olarak değiştiği haberini paylaşalı beri “Meta, metaverse nedir, bu değişim ne anlama geliyor?” soruları teknoloji gündemine oturdu. Biz de sorulara yanıt bulmaya çalışalım ve şaibeli geçmişe sahip böyle devasa bir şirketin atılımlarına göz gezdirelim.</p>
+                        
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="350" src="assets/kh1.jpg" alt="..." /></a>
+                        </div>
+
+                        <p>Kaliforniya merkezli bir sosyal medya ve medya holdingi olan Facebook şirketi, WhatsApp, Instagram ve Facebook gibi yan kuruluşları ile de en popüler sosyal medya uygulamalarına sahip şirketler arasında. Şirketin kurucusu ve CEO’su Mark Zuckerberg ise 28 Ekim Perşembe günü şirketin adının resmen değiştiğini duyurdu. Buna göre Facebook şirketinin yeni adı “Meta” olarak belirlendi. “Metaverse” kavramından hareketle konulmuş bu isimle beraber, Mark Zuckerberg’in zaten uzun süredir şirketine yön verdiği strateji temellendirilmiş oldu.</p>
+                        <p>Mark Zuckerberg’in hamlesi hedefe isabet etti diyebiliriz. Neden, diye soracak olursanız Mark Zuckerberg’in amacı bu kavramı kendi şirketi ile özdeşleştirmek ve sahiplenmekti. Neredeyse öyle de oldu. Facebook, Instagram, WhatsApp, Messenger gibi uygulamaların sahibi olan Facebook Şirketi, aynı zamanda sanal gerçeklik şirketi Oculus’un da sahibi. Gelgelelim “metaverse” eski adıyla Facebook şirketinin tekelinde bir kavram değil. Fakat sanki yalnızca ona ait bir teknolojiymiş gibi de algılanıyor. Öncelikle bunun ne olduğuna kısaca bir bakalım.</p>
+                        <p>İlk kez 1992 yılında, Neal Stephenson tarafından yazılan “Snow Crash” adlı bilim kurgu romanında görüyoruz “metaverse” kavramını. Kitapta metaverse bir sanal gerçeklik evreni olarak tarif ediliyor. Bugünkü bilgilerimiz ışığında diyebiliriz ki metaverse: Tüm sanal evrenlerin ve internet üzerindeki içeriklerin artırılmış gerçeklik, sanal gerçeklik, blockchain teknolojileri kullanılarak birleştirilmesiyle oluşturulmuş bir yeni sanal – gerçek karışımı evren. Sanal gerçekleşen olaylar ile gerçekteki olayların eşzamanlı bir şekilde deneyimlenmesini sağlayan metaverse teknolojisi içerisinde her şeye karşın sanal ve gerçek gibi net ayrımlar bulunmuyor…</p>
+                        
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="350" src="assets/kh3.jpg" alt="..." /></a>
+                        </div>
+
+                        <p>Kullanıcılar, metaverse evreni içerisinde yer alan tüm içerikleri ister artırılmış gerçeklik ister sanal gerçeklik ile deneyimleyebiliyorlar. Bu evrende sanal olanla gerçek olan o denli iç içe geçiyor ki kullanıcılar bu iki ortamda da dijital avatarları yardımıyla eşzamanlı olarak var olabiliyor. Bunlar tabii ki çok net ve belirgin tanımlar değil. Çünkü mateverse, henüz işin içinde olanların da tümüyle hâkim olabildiği bir teknoloji değil. Bundan dolayı, yarım yamalak ve yalapşap bilgiler, konuşmalar, yorumlar, bilgiler ile örülü etrafımız.</p>
+                        <p>“Meta – universe” sözünün kısaltılmışı olarak dile daha çabuk oturan metaverse, bizzat eski adıyla Facebook şirketinin de soyut olarak tanımladığı bir teknoloji. Sanal gerçeklik ve artırılmış gerçeklikten güç alan metaverse, sanal deneyimlerin yepyeni, çok daha farklı bir aşaması olarak görülüyor. Bu evrende meşhur “peki Zeki Müren de bizi görecek mi?” sorusuna dahi yanıt aramak mümkün gibi. Yani Zeki Müren sizi görmese bile metaverse evreni yardımıyla salonunuza gelip bir konser verebilecek.</p>
+                        
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="350" src="assets/kh4.jpg" alt="..." /></a>
+                        </div>
+
+                        <p>Dünyanın farklı pek çok noktasında metaverse teknolojisine dair örnekler de vermek mümkün. Örneğin, rap şarkıcısı Travis Scott, geçtiğimiz Nisan ayında konserlerini sanal olarak vermiş ve konserlerde bir avatar olarak ortaya çıkmıştı. Bugün metaverse kripto para birimleri bile çıkmış durumda. Henüz kripto paranın ne olduğu dahi tam olarak çoğunluk tarafından anlaşılmamışken bir de metaverse içerisinde kripto para birimlerini anlamak da işleri daha zorlaştıracak gibi görünüyor.</p>
+                        <p>Gelelim Facebook şirketinin adını neden “Meta” olarak değiştirdiğine… Güçlü teorilerden biri Facebook web sitesinin artık gençlere göre olmaması ve şirketin kurucusu Mark Zuckerberg’in gençleri kendi sosyal medya uygulamalarına geri çekmek istemesi. Evet, Instagram’ı satın alarak genç kitlenin en çok kullandığı sosyal medya uygulamalarından birine sahip olsa da Facebook, yani yeni adıyla Meta, Facebook web sitesinde artık gençlere hitap etmiyor. Ayrıca “The Great Hack” belgeselinde görebileceğiniz Cambridge Analytica gibi skandallar, yani Facebook’un kişisel verileri izinsiz kullanıp seçimleri dahi etkileyebilme gücü şirkete olan güveni azaltmış durumda. Bu teoriye göre Facebook, bu imaj çöküşünü geride bırakmak için bu girişimleri gerçekleştirmekte.</p>
+                       
+                        <div align="center">
+                        <a href="#!"><img class="img-fluid" width="350" src="assets/kh2.jpg" alt="..." /></a>
+                        </div>
+                        
+                        <p>Peki metaverse ne değildir? Henüz devlerin dahi tam olarak tanımını yapmaktan geri durduğu bu teknolojiyi dört başı mamur şekilde tanımlamak güç. Ama ne olduğunu anlatmaya çalıştıktan sonra bir de ne olmadığını söyleyerek de çemberi daraltalım. Her şeyden önce metaverse tek bir ürün, hizmet ya da teknoloji değil. Yalnızca eğlence, kripto para, sanal toplantı ya da oyun dünyası içerisinde değil, bunların tamamında ve daha fazlasında olabilecek bir teknoloji. Esas amacı fiziksel dünyadaki yaşamımızın parçalarının bir dijital replikasını, kopyasını oluşturmak. Ve bu kopyanın artırılmış gerçeklik, sanal gerçeklik gibi teknolojiler desteği ile son derece gerçekçi olmasını sağlamak. Evden çıkmadan tüm arkadaşlarınız ile beraber sözleşip bir kafeteryada da oturabilirsiniz bir toplantıya da katılabilirsiniz. Tabii ki kendinize özgü avatarınız yardımıyla…</p>
+                        <p>Sinema gibi görsel ağırlıklı sanat işlerinin üretiminde bile ezber bozması beklenen metaverse, ne yazık ki soğukkanlı bir şekilde oturulup ne olduğuna yönelik soruların sorulduğu bir teknoloji değil. Sunacağı söylenen faydalar ise internetin ilk ortaya çıktığı günlerdeki vaatlere benziyor. İnternet içeriğe ulaşmayı demokratikleştirecekti. Evet, bir yandan öyle oldu ama işin arka tarafında gerçekleşecek olanlara karşı da bizi kimse uyarmadı. Fakat bir ikaz yapılsaydı bile Huxley’in Cesur Yeni Dünya’sındaki gibi olurduk eminim. İşin ucunda dopamin varsa gerisinin önemli olmadığını giderek daha acı bir şekilde görmek… Şimdi neye yarar “var olmak mı yok olmak mı” tiradı… Bu arada metaverse ne zaman anlatılsa bir Matrix benzetmesi de gelir peşi sıra. Tüm bu teknoloji bu noktaya gelmişken Matrix'in devam filminin gelecek olması da bir tesadüf mü acaba?</p>
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

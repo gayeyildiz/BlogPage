@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/cakra.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(187, 255, 0)">Sevginin Kaynağı: Kalp Çakrası</h1>
+                            <span class="subheading" style="color: rgb(255, 255, 255); font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Çakraların, vücudumuzun belirli noktalarında yer alan ve enerjimizin denge içinde olmasına zemin hazırlayan bölgeler olduğunu biliyoruz. Bugünkü yazımızda da kalp çakrası olarak da anılan, sevmenin ve sevilmenin temellerini temsil eden kalp çakrasını mercek altına alacağız.</span>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Çakraların bedenimizde yaşam enerjisi olarak bilinen prana’nın devamlı olarak akışta kalmasını sağlayan, birbirleriyle olduğu kadar bedenimizle de bağlantılı enerji noktalarını temsil ettiğine, önceki yazımızda değinmiştik. Çakralar, bedenimizde belirli iç organlarına ve sinir dağılımlarına karşılık geliyor. Bedenimizde temelde 7 ana enerji merkezi, yani çakra bulunuyor ve bunlar, omurganın üzerinde belirli noktalarda dizili olarak yer alıyor. Her bir çakra 7 farklı renk ile temsil ediliyor ve bu renkler, kaynağını gökkuşağından alıyor. Bedenin tam ortasında ise Sanskritçe ismi Anahata olan kalp çakrası bulunuyor. İki göğüs kafesinin ortasına yerleşen kalp çakrası, sevgi çakramız ve ruhumuzun merkezi olarak tanımlanıyor. Dünyanın sevgi üzerine kurulduğunu, bu hayatta her şey için sevginin gerekli olduğunu düşünürsek, kalp çakrası, çakralar arasında en önemli noktalardan biri olarak dikkat çekiyor.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/cakra1.jpg" alt="..." /></a>
+
+                        <p>Yeşil renkle tasvir edilen kalp çakrası, hayatımızın en önemli yaşam gücü olan akciğer, kalp ve kan dolaşımını yönetiyor. Bağışıklık sistemimizin güçlü olmasını sağlayan T-Hücrelerini salgılayan timüs bezi, kalp çakrasının ana salgı bezi olarak biliniyor. Özellikle bağışıklık sisteminde problemler yaşayan insanların, kalp çakralarında ciddi blokajların olduğunu söylemek mümkün. Kalp çakrası dengesiz çalıştığı zaman fiziksel beden üzerinde solunum güçlüğü çekebiliriz, yüksek tansiyondan mustarip olabiliriz, üst solunum yolları ve akciğer hastalıklarına yakalanmaya açık olabiliriz. Fiziksel formların yanı sıra, kalp çakrası, sevgiyi ve şifayı temsil ediyor. Kalp çakrası evrensel sevgi ile alakalı olduğu için, hayatımızın birçok alanında etkili olduğunu söylemek mümkün. Kalp çakra, hayata ve hayatın her alanına, her parçasına sevgi enerjisi gönderiyor. Yaradan’dan gelen evrensel yaşam enerjisiyle dolan kalp çakrası yaşama sevincini, isteği ve hevesi artırıyor. Yürekten sevmenin, yürekten inanmanın, ben kavramı yerine biz kavramını anlamanın, kendini ve özünü sevmenin, tüm benliğini olduğu gibi kabul etmenin kalp çakrasının enerji alanını güçlendiren konular olduğunu söyleyebiliriz.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/kalp.jpg" alt="..." /></a>
+
+                        <p>Eğer kalp çakrası kapalıysa mutsuzluk, sürekli sıkıntı hali, çaresizlik hissi, sevgisizlik, isteksizlik, ruhsal sorunlar, stres ve gelecekle ilgili inançsız düşünceler, evlilik durumunda sorunlar, aile ve arkadaş ilişkilerinde sorunlar, yanlış tercihler, ilişki yönetiminde hatalar, aldatma, aldatılma gibi durumlar yaşayabilirsiniz. Kalp çakrası sadece insan ilişkilerini değil, tüm sevgi sistemimizi düzenliyor. Yaşam sevginiz, iş sevginiz, hevesleriniz, severek yaptığınız her şey üzerinde etkiye sahip olabileceği için çok büyük önem taşıyor. Bu çakrayı dengelemenin ve pozitif enerji akımını sürdürmenin ilk yolu, değerli taşların olumlu etkilerinden faydalanmaktan geçiyor. Zümrüt, künzit, yeşil yeşim gibi değerli taşlar, pembe kuvars ve pembe turmalin kalp çakrasındaki enerji akışını en iyi dengeleyen doğal taşlar olduğu biliniyor. Ayrıca gül yağı ve tütsü kullanımının da bu çakrayı dengeye kavuşturmada kullanılabileceği söyleniyor. Çakraların en iyi şekilde işlemesi, vücut enerjisinin akışa geçmesi ve herhangi bir sorun yaşanmaması açısından meditasyonun öneminden bahsetmemek olmaz. Bu noktada ise en iyi sonucu alabilmek adına öncelikle kendinizi sevmeniz gerekiyor. Kendinizi iyi ve mutlu hissetmeniz durumunda tüm problemlerinizin en kısa sürede çözümleneceği, bu sayede enerji akışının pozitif yönde yükseleceği, haliyle kalp çakrasının temizleneceği öngörülüyor. Bağlı olduğunuz ve inandığınız dine ait ritüeller geliştirmeniz de sevginin ana kaynağı olan kalp çakrasının blokajının kalkmasında büyük bir rol oynuyor.</p>
+                        
+                        
+                        
+
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

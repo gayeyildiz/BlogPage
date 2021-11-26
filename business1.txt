@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/startup.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(255, 187, 0)">Başarılı Bir Startup Kurmak İçin 5 Tavsiye</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Startupların %90’nın başarısız olduğunu biliyor muydunuz? Ne yazık ki birçok girişim iyi bir planlamaya ihtiyaç duymadan büyük işler başarmaya kalkışıyor ve sonucunda ortaya büyük başarısızlıklar çıkıyor. Bu da hâliyle insanların startup kurma fikrini ütopik bir uğraş olarak görmesine yol açıyor. Oysa iş dünyasında hayatta kalmak çok zor değil. Dikkate alacağınız basit adımlar sizi hiç olmadığı kadar başarıya götürebilir. İşte başarılı bir startup kurmak için 5 tavsiye!</p>
+                        
+                        <h2 class="section-heading">1. Başlangıçta kendinize niş bir pazar seçin</h2>
+                        <p>Herkes bu konuda farklı bir şey söylese de istatistikler, niş bir pazar seçen startupların daha başarılı olduğunu gösteriyor. Eğer çılgınlık derecesinde büyük bir bütçeye sahip değilseniz Amazon’un yaptığı işi yapmaya kalkışmazsınız değil mi? Bu yüzden kendinize bir pazar seçerken önce o pazardaki rekabet seviyesinin ne oranda olduğunu iyice araştırın, rakiplerinizi analiz edin, müşterilerinizi tanıyın. Sonrasında ise kendi hikayenizi kurgulamaya başlayın.</p>
+                        
+                        <h2 class="section-heading">2. İyi bir pazarlama planı oluşturun</h2>
+                        <p>Elbette iyi bir hikayeye iyi bir pazarlama planı eşlik etmeli. Rekabette ön plana çıkabilmek adına marka bilinirliğini artırmak ve güven oluşturmak zorundasınız. Bunu da ancak iyi bir pazarlama stratejisiyle başarabilirsiniz. Bu yüzden mevcut tüm pazarlama teknikleri üzerinde yoğun bir çalışma gerçekleştirin ve kendi pazarınızda hangi tekniklerin işe yaradığını analiz etmeye çalışın. Eğer başarılı pazarlama stratejinizin artık işe yaramadığını görürseniz de işe hemen yenisiyle tekrardan başlayın.</p>
+                       
+                        <a href="#!"><img class="img-fluid" src="assets/startup1.jpg" alt="..." /></a>
+                        
+                        <h2 class="section-heading">3. Doğru çalışanları işe alın</h2>
+                        <p>Steve Jobs’un ünlü sözünü hatırlayalım: “Zeki insanları, bize ne yapmamız gerektiğini söylemeleri için işe alıyoruz.” İyi bir startup kurmanın yolları iyi bir yetenek avcısı olmaktan geçiyor. Eğer yaptığınız iş konusunda sizle aynı tutkulara sahip yetenekli insanları işe alırsanız başarı kendiliğinden gelecektir. Büyük fikirleri geliştirmek için yüzlerce kişiye ihtiyacınız olmasa da en az bir oda dolusu başarılı insana ihtiyacınız olduğunu aklınızdan çıkarmayın.</p>
+                        
+                        <h2 class="section-heading">4. Finansal işlemlerinizi iyi yönetin</h2>
+                        <p>Bir girişimi inşa ederken büyük bütçelere sahip olmayacağınız için yaptığınız her finansal işlemi iyi bir şekilde hesaplamalısınız. Her ekibin ayrı bir bütçesi olacağından bütçeyi suistimal edebilecek gereksiz harcamaları sürekli kontrol etmek zorunda kalacaksınız. Bu yüzden iyi bir iş planı aynı zamanda iyi bir bütçe planlamasına ihtiyaç duyar. Bunun için girişiminizin tüm gereksinimlerini ve harcamalarını iyi bir şekilde analiz etmek zorundasınız. </p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/startup2.jpg" alt="..." /></a>
+
+                        <h2 class="section-heading">5. Müşteriye odaklanın</h2>
+                        <p>Başarısız olan startupların yaptığı en büyük hatalardan biri, müşteri geri bildirimlerini kulak ardı etmektir. Oysa ortada mutlu bir müşteri yoksa, ürün de yoktur. Ortaya çıkardığınız hizmet ya da ürün her ne kadar çok başarılı da olsa müşterilerinizi iyi bir şekilde analiz etmek zorundasınız. Değişen ve dönüşen müşteri davranışları karşısında hizmetinizi ya da ürününüzü sürekli yenilemeniz gerekir. Bu yüzden müşterilerinizin olumlu ya da olumsuz geri bildirimlerini dikkate alın ve ürünlerinizi, hedef pazarlarınızı değiştirmekten korkmayın.</p>
+                        
+                        
+                        <p>Sonuç olarak, başarılı bir startup kurmak istiyorsanız şu yolları izleyin: Niş pazarınıza odaklanın, doğru çalışanları bulun, finansal işlemlerinizi iyi yönetin ve müşterilerden gelen geri bildirimleri dikkate alın. Değişim ve dönüşümü ise kurumsal kimliğinizin bir parçası hâline getirin.</p>
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

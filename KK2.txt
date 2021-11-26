@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/KK22.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgba(255, 0, 0, 0.842)">Yaşamak İçin Öldürmenin Cezası Bu Kadar Ağır Mıdır Hâkim Bey?</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Çilem Doğan ismini senelerdir duyuyoruz. Hikâyesi öyle sert ki daha uzun seneler duymaya devam edeceğiz gibi görünüyor. Kocası tarafından fuhuşa zorlanan Çilem senelerce hem fiziksel hem de psikolojik şiddeti çok sert şekilde yaşadıktan sonra 2015 yılında kocasını tabancayla öldürdü. Senelerdir süren davası, ona arka çıkan platformlar, güçlü avukatlar ve sergilenen müthiş kadın dayanışmasına rağmen arzu edildiği şekilde sonuçlanmadı. Ömür boyu hapis istemiyle yargılanırken, ceza onanana kadar 50 bin lira kefaretle tutuksuz yargılanmasına karar verilmişti. Şimdiyse cezası kesinleşti, 15 yıl hapis yatacak. 8 yaşındaki kızını tüm kadınlara yani kız kardeşlerine emanet etti hapse girmeden önce… Gelin neler olmuştu, süreç nasıl ilerlemişti, neler yaşandı yakından bakalım ve hep birlikte soralım; Yaşamak için öldürmenin cezası bu kadar ağır mıdır?</p>
+                        <a href="#!"><img class="img-fluid" src="assets/cd.jpg" alt="..." /></a>
+                        <p>Çilem, Hasan Karabulut’la evlendikten 28 gün sonra şiddet görmeye başlıyor. Rahatsızlandığı için kendisini hastaneye götürmesini istiyor eşinden. O da Çilem’i ormanlık bir alana götürerek darp ediyor ve ağzından ona fuhuş yaptıracağı sözü ilk kez o gün çıkıyor. Fuhuş yapıp kendisine para getirmesini istiyor. Bu sıralarda kocasının aslında bir uyuşturucu satıcısı olduğunu öğreniyor. Evlenmeden önce muallakta bıraktığı mesleğini yalnızca 28 gün saklayabiliyor karısından. Gerçek yüzü hemen ortaya çıkıveriyor. Kocasının baskısına karşı çıkınca Hasan Karabulut, Çilem’i eve kilitliyor. Günlerce kendisinden haber alamayan annesi ve kayınvalidesi kapıya geliyor da ancak öyle kurtuluyor Çilem 3 günlük açlık ve susuzluktan. Ardından annesinin evine dönüyor, kocasından şikayetçi oluyor ve hamile olduğunu öğreniyor.</p>
+                        <p>Böylelikle bir şans daha vermek istiyor Çilem kocasına ve eve dönüyor. Fakat Hasan Karabulut doğum için hastaneye gelmiş olan karısını, karnındaki bebeğe ve sancısına rağmen dövüyor. Bu seferki hayali gerekçesi çocuğun kendisinden olmadığı. Ayrıca söylendiğine göre Hasan Karabulut hastaneye uyuşturucu tesirinde geliyor. Bunların üzerine Çilem annesinin evine gidiyor bebeğiyle birlikte. Fakat 10 gün kadar sonra çocuğunun babasını yanında istiyor. Arıyor, çağırıyor, gelmiyor. Kendi evine dönüyor Çilem. Her geçen gün şiddetin dozunu arttıran Hasan Karabulut’tan defalarca şikayetçi oluyor hatta boşanma davası açıyor.</p>
+                        <a href="#!"><img class="img-fluid" src="assets/cd1.jpg" alt="..." /></a>
+                        <p>Belki de en yapılmaması gereken şey bu noktada yapılıyor, Çilem dava açınca aileler araya giriyor, “yuvanı dağıtma” diyor. Ortada bir yuva var mıydı ya da daha fazla dağılacak hal kalmış mıydı bilinmez. Zira boşanma davasına cevaben Hasan Karabulut Çilem’i arayarak “Tüm aileni öldürürüm” diye tehdit ediyor. Çilem korkuyor, boşanma davasından vazgeçiyor. Çünkü kendisine bunları yapan ailesine neden beterini yapmasın ki? Olay sabahı Hasan Karabulut belindeki silahı yastığının altına koyuyor, yatak odalarında uyuyan bebeklerini içeri götürmesini ve fuhuşa gitmek için hazırlanmasını söylüyor. Çilem bunu reddedince arbede yaşanıyor aralarında.</p>
+                        <p>Eğer Çilem daha hızlı davranmamış ve silahı kapmamış olsaydı o gün ölen Çilem olacaktı çok büyük olasılıkla. 2016 yılında kefaretle serbest kalan Çilem’in davası Yargıtay’a gönderildi ve ne yazık ki cezası onandı. Kısa bir süre sonra 8 yaşındaki kızını bırakıp cezaevine girecek. Zaten onun en çok canını acıtan da bu…</p>
+                        <a href="#!"><img class="img-fluid" src="assets/cd2.jpg" alt="..." /></a>
+                        <p>Tecavüzcüler, kadın cinayeti işleyenler, karısına, sevgilisine psikolojik ya da fiziksel şiddet uygulayanlar, zevk için ya da karşısındaki güçsüz olduğu için öldürenler… Hepsi aramızda, her gün aynı sokaklardan yürüyor aynı havayı soluyoruz. Hepimizin canı her an tehlikedeyken, ölmemek için, çocuğu için, fuhuş yapmamak için kendisini savunan Çilem Doğan suçlu mudur? Onlarca kez kocası için suç duyurunda bulunmuş, uzaklaştırma kararı çıkartmış Çilem. Şiddet uyguladığı için çeşitli cezalar da almış olmasına rağmen olay bu noktaya neden geldi? Hasan Karabulut uyuşturucu bağımlısıydı. Çeşitli suçlardan cezaevine defalarca girip çıkmış, hakkında birçok dava olan biriydi. İflah ve ıslah bu karakterdeki bir adam için daha sert yürütülmeliydi belki de.</p>
+                        <p>Şimdi tüm bunları söylemenin ne anlamı var bilmiyorum ama söylemenin susmaktan daha anlamlı olduğunu biliyorum. Yıllarca zulmün her şeklini görmüş, şimdi de çocuğundan kopartılarak cezaevine gönderilecek bu kadın bizlere diyor ki: “…Yaşamının önemsiz bir anının filmi gibi geriye kalan… Erkek yargısı tarafından düzenlenen, erkeğin intikamını alan yargı tarafından darmadağın olmuş evimin ya da yok olmuş yaşamımın filmi. Elimi sımsıkı kavrayan Mirasum’un ve kadınların hayatla bağlarımı sürdürmeye yardım eden ellerin filmi…
+                            Yaşamı ve kızkardeşlik gücünü çok sevdim ve evet sizden ayrı bir hayat yaşayacağım. Sizlerle aynı havayı, aynı tatları duyumsayamayacağım. Kızımdan, ailemden, beni, hiçbir zaman yalnız bırakmayan, erkeğin öldüren, gasp eden dünyasına karşı yaşamı emeğiyle var eden kadınlardan ayrı bir hayat süreceğim. Ama güçlü olacağım.”</p>
+                        
+
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

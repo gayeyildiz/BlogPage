@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">NAMELESS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Ana Sayfa</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="category.html">Kategoriler</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/m1.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="post-heading text-center">
+                            <h1 style="color:rgb(209, 130, 27)">Mental Sağlığınızı Korumak İçin 5 Yöntem</h1>
+                            <span class="meta">
+                                Posted by
+                                <a href="#!">BBC NEWS</a>
+                                on September 18, 2021
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <p>Yapılan çalışmalar, mental sağlığınızı korumak için bazı yöntemler olduğunu gösteriyor. Üstelik bu yöntemler zannettiğinizin aksine zor şeyler değiller. Her biri gündelik hayatınızda kolayca uygulayabileceğiniz adımlardan oluşuyor. Bu yöntemleri gün içerisinde basit bir şekilde uygulayarak kendinizi daha pozitif hissedebilir ve hayatın getirdiği zorlukların üstesinden daha kolay gelebilirsiniz. İşte mental sağlığınızı korumak için 5 yöntem!</p>
+                        
+                        <h2 class="section-heading">Diğer insanlarla bağlantı kurun</h2>
+                        <p>İyi ilişkiler inşa etmek mental sağlığınız için oldukça önemlidir. Çünkü iyi ilişkiler kurdukça aidiyet ve öz değer duygusu oluşturursunuz, olumlu deneyimleri paylaşma fırsatı bulursunuz, duygusal destek ve başkalarının desteğini elde edersiniz. Bu yüzden mental sağlığınızı korumak için daha güçlü ve daha yakın ilişkiler kurmaya çaba sarf etmeniz gerekir. Bunun da en kolay yolu, sevgi ve saygı gördüğünüz ilişkilere gereken özeni göstermektir. Ama öncesinde kendinizi diğer insanlara açmanız gerekir.</p>
+                        
+                        <h2 class="section-heading">Fiziksel olarak aktif olun</h2>
+                        <p>Fiziksel olarak aktif olmak sadece bedensel sağlığınız için yararlı değildir. Araştırmalara göre fiziksel olarak aktif olmak, öz güveninizi yükseltiyor ve aynı zamanda zorluklara karşı dirençli olmanızı ve beyninizde psikolojinizi olumlu etkileyecek kimyasalların üretilmesini sağlıyor. Bu yüzden, koşmak, dans etmek, yüzmek gibi fiziksel aktivitelerde bulunmak mental sağlığınızı korumanın en büyük adımlarından biri olabilir.</p>
+                        
+                        <a href="#!"><img class="img-fluid" src="assets/mental1.jpg" alt="..." /></a>
+
+                        <h2 class="section-heading">Yeni beceriler öğrenin</h2>
+                        <p>Yeni beceriler öğrenmek hem diğer insanlarla bağlantılar kurmanıza yardımcı olur hem de kendinize olan saygınızı artar. Bu aynı zamanda öz güven kazanmanıza yardımcı olur. Ayrıca yeni beceriler öğrenmek bir amaç duygusu oluşturmanıza yardımcı olur. Eğer resim yapmak, dans etmek, yazılım öğrenmek gibi şeyleri öğrenmek için vaktinizin olmadığını düşünüyorsanız, basit ve pratik şeyler yaparak da yeni beceriler geliştirebilirsiniz. Örneğin her gün evde yemek yapan birisi iseniz daha önce hiç yapmadığınız yemekleri yapmayı deneyin. Sırf bu basit girişim bile mental sağlığınızı korumanıza ve kendinizi her anlamda geliştirmenize yardımcı olabilir.</p>
+                        
+                        <h2 class="section-heading">Başkalarına karşı nazik ve yardımcı olun</h2>
+                        <p>Eskilerin de söylediği gibi: İyilik et, iyilik bul. Başka insanlara ne kadar nazik olur ve onlara yardımcı olursanız mental sağlığınızı o kadar rahat korursunuz. Çünkü başka insanlara karşı nazik ya da yardımsever olduğunuzda ortaya olumlu duygular çıkar, yeni insanlarla tanışırsınız ve bir amaç duygusu kazanırsınız. Olumlu duygular sizi hem bedenen hem de zihnen etkin kılar ve bu da kötü şeylerin etkisinde edilgen bir yaşam sürmenizi engeller. Bu yüzden, popüler kültürde, sert ve baskın karakter olmanın avantajlarına dair çizilen algının psikolojik anlamda aslında hiçbir faydası yoktur.</p>
+                        
+                        <h2 class="section-heading">Şimdiki ana odaklanın</h2>
+                        <p>Geçmiş saplantısı ya da sürekli geleceğe ertelenen şeyler, şimdiki anın içerisinde farkındalık kazanmanızın önüne geçer. Oysa hayat şu anda olup bitmektedir ve içerisinde sizi bekleyen birçok olumlu şey vardır. Mental sağlığınıza iyi gelecek bu olumlu şeyleri ıskalamamak için olabildiğince bu anın içerisinde kalmak gerekir. Bunun için kendinize arada sırada “Şimdiki ana odaklan!” şeklinde telkinlerde bulunabilirsiniz ya da sevdiklerinizden bunu size zor zamanlarınızda hatırlatmalarını isteyebilirsiniz.</p>
+                        <p>Her kadın makyaj yapmak zorunda değildir, üstelik makyajsızken de bakımlı olunabilir. En nihayetinde bunların hepsi kadının kişisel tercihi değil midir?</p>
+                        
+
+
+                        <p>
+                            Placeholder text by
+                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            &middot; Images by
+                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#!">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/gayeyildiz">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2021</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
